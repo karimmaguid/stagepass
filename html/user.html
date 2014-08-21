@@ -1,0 +1,49 @@
+<div class="bar bar-header stagepass-header-off" ng-show="currentUser">
+   <button class="button button-icon " ng-show="currentUser" onclick="window.history.back()"> 
+   <i class="icon ion-arrow-left-c"></i> 
+   </button>
+   <div class="title share-header">Share with</div>
+   <div class="title share-header-name">{{selectedBand.artist}}</div>
+   <button class="button button-icon " ng-show="currentUser" ng-click="showActions()"> 
+   <i class="icon ion-log-out"></i> 
+   </button>
+</div>
+<div ng-show="currentUser" class="user-mode">
+   <ion-content class="has-header share-with-header" animation="slide-left-right" padding="false" scroll="true" has-bouncing="true">
+      <div class="center" ng-hide="requestSubmitted">
+         <div class="arrow-up"></div>
+         <input id="fileupload" type="file" name="file"  accept="image/*" capture>
+         <img ng-show="userImage" class="user-pic-btn" id="img" src="{{userImage}}" width="150"/>
+         <button ng-hide="userImage" class="user-pic-btn"ng-click="takePic()" >
+            <i class="icon ion-android-camera" ></i>
+         </button>
+         <textarea placeholder="Write a caption" class="user-message-box" ng-model="requestMessage"></textarea>
+         <button class="button stagepass-button" ng-class="{disabled: !userImage}" ng-click="submitRequest(requestMessage)" ng-hide="uploadingImage">Share Picture</button>
+      </div>
+      <div class="center" ng-show="requestSubmitted">
+         <div class="arrow-up"></div>
+         <img ng-show="userImage" class="user-pic-btn" id="img" src="{{userImage}}" />
+         <div>
+            <div class="list text-left">
+               <div class="item item-avatar">
+                  <img   ng-src='http://s3.amazonaws.com/dostuff-production/band_alternate_photo/custom_photos/{{selectedBand.imageid}}/custom.jpg'>
+                  <h2 class="band-list-name no-top-margin">{{currentUser.name}}</h2>
+                  <div class="band-list-messages">{{submittedRequest.attributes.title}}</div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </ion-content>
+</div>
+<ion-footer-bar>
+   <ion-tabs class=" tabs-icon-only"  ng-show="currentUser">
+      <ion-tab title="Home" icon="ion-home" href="#/winnerfeed">
+      </ion-tab>
+      <ion-tab title="Bands" icon="ion-music-note" href="#/bandlist"  class="active-tab">
+      </ion-tab>
+      <ion-tab title="User Feed" icon="ion-image" href="#/userfeed">
+      </ion-tab>
+      <ion-tab title="Prizes" icon="ion-trophy" href="#/prizes" badge="unredeemed.length" badge-style="badge-assertive">
+      </ion-tab>
+   </ion-tabs>
+</ion-footer-bar>

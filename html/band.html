@@ -1,0 +1,43 @@
+<div class="bar bar-header stagepass-header" >
+   <button class="button button-icon " onclick="window.history.back()"> 
+   <i class="icon ion-arrow-left-c"></i> 
+   </button>
+   <div class="h1 title" >StagePass</div>
+   <button class="button button-icon "  ng-click="showActions()"> 
+   <i class="icon ion-log-out"></i> 
+   </button>
+</div>
+<div class="user-mode" >
+   <ion-content class="has-header header-with-padding" ng-controller="feedCtrl" animation="slide-left-right" padding="fasle" scroll="true" has-bouncing="true" class="header-with-padding">
+      <ion-refresher on-refresh="updateCards(loggedInBandOBJ)"
+         pulling-text="Pull to refresh..."
+         refreshing-text="Refreshing!"
+         refreshing-icon="ion-loading-c" class="refresher">         
+      </ion-refresher>
+      <div>
+         <swipe-cards ng-show="cards.length > 0">
+            <swipe-card ng-repeat="card in cards" on-destroy="cardDestroyed($index, card)" on-swipe="cardSwiped($index)">
+               <div class="item item-text-wrap card card-special">
+                  <img class="user-pic-submitted no-border" id="img" ng-src="http://stagepassapp.com/{{card.attributes.image}}" />
+                     <div>
+                        <div class="item item-avatar no-border 5-padding">
+                           <img ng-src='http://graph.facebook.com/{{card.attributes.userID}}/picture?width=60&height=60'>
+                           <div >
+                              <h2 class="band-list-name">{{card.attributes.name}}</h2>
+                              <div class="band-list-messages">{{card.attributes.title}}</div>
+                           </div>
+                        </div>
+                     </div>
+               </div>
+               <div class="button-bar">
+                  <a class="  button-pass" ng-click="rejectUser($index, card)">PASS</a>
+                  <a class="button-prize" ng-click="acceptUser($index, card)">GIVE PRIZE</a>
+               </div>
+            </swipe-card>
+         </swipe-cards>
+         <div class="center"ng-hide="cards.length > 0">
+            No submissions
+         </div>
+      </div>
+   </ion-content>
+</div>

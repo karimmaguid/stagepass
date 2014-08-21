@@ -1,0 +1,38 @@
+<div ng-controller="UserCtrl" style="width:100%; text-align:center;">
+   <ion-content animation="slide-left-right" padding="false" scroll="false" has-bouncing="true" has-header="false" style="margin-top:-50px;" >
+      <div ng-hide="currentUser" class="login-screen">
+         <div class="login-btn-div">
+            <div class="login-title">
+               <h1>Welcome to StagePass</h1>
+            </div>
+            <div style="center">
+               <input ng-show="bandLogin" type="text" class="artist-login-input" style="border: 2px solid black;height: 50px;font-size: 23px;line-height: 24px;" placeholder="Enter artist name" ng-model="loggedInBandID" >
+            </div>
+            <button ng-show="bandLogin" class="button stagepass-button"  ng-click="loginBand(loggedInBandID)" >
+              Login 
+            </button>
+            <button ng-hide="bandLogin" class="button stagepass-button facebook-button" ng-click="logIn()">
+              <span class="icon ion-social-facebook"></span> 
+              <span style="margin-left:-40px;">Fan Login </span>
+            </button>
+            <button  ng-hide="bandLogin" class="button stagepass-button"  ng-click="bandLogin = true" >
+              Artist Login 
+            </button>
+         </div>
+      </div>
+   </ion-content>
+</div>
+<div  class="tabs tabs-icon-only"  ng-show="currentUser">
+   <a class="tab-item" ui-sref="winnerfeed" class="button activated">
+   <i class="icon ion-home active-tab"></i>
+   </a>
+   <a class="tab-item" ui-sref="bandlist"  class="button">
+   <i class="icon ion-music-note"></i>
+   </a>
+   <a class="tab-item" ui-sref="userfeed"  class="button">
+   <i class="icon ion-image"></i>
+   </a>
+   <a class="tab-item" ui-sref="prizes" badge="5" badge-style="badge-assertive" class="button">
+   <i class="icon ion-trophy"></i>
+   </a>
+</div>

@@ -1,0 +1,107 @@
+.ionic-logo{display:block;margin:15px auto;width:96px;height:96px;}
+.bar.bar-transparent{background-color:transparent;background-image:none;border:none;}
+.bar .title{color:#eee;}
+.swipe-cards{position:fixed;}
+.bar{padding-left:0;}
+.swipe-card{display:none;position:fixed;-webkit-transform:scale(1,1);top:110px;width:100%;margin-top:-150px;box-sizing:border-box;background-color:#fff;border-radius:4px;overflow:hidden;-webkit-animation-fill-mode:forwards;border:none;}
+.band-list-item{padding-top:10px;}
+.band-list-item img{padding:5px 5px 0;}
+.band-list-item h2{padding-top:15px;}
+.swipe-card .title{height:40px;padding:5px;line-height:30px;color:#444;}
+.swipe-card .image{overflow:hidden;max-height:210px;min-height:210px;}
+.swipe-card .image img{width:100%;border-radius:0 0 4px 4px;}
+.swipe-card.pop-in-start{-webkit-transform:scale(0,0);}
+.swipe-card.pop-in{-webkit-animation:bounceIn .4s ease-out;}
+body{background-color:#f7f7f7;color:#333;font-family:Cabin, sans-serif;cursor:url(http://ionicframework.com/img/finger.png), auto;}
+.header-with-padding{top:44px;padding-top:40px;}
+.share-with-header{top:64px;}
+.refresher{top:-89px;}
+.hidden{display:none;}
+.text-left{text-align:left;}
+.pano{height:85%;max-height:85%;}
+#spin{height:60px;}
+.12-top{margin-top:12px;}
+.5-padding{padding:5px;}
+.prize-item{text-align:left;height:60px;}
+.card-special{padding:5px;margin:0 5px;}
+.card-list{margin:5px;margin-bottom:15px;}
+.accepted-success{color:#fff;top:43px;background-color:#30BD8A;line-height:300px;word-wrap:break-word;border:6px solid #4CD68E;text-align:center;z-index:10000;position:absolute;width:100%;height:100%;}
+.popup-body{color:#333;}
+.main-content{margin-top:45px;}
+.band-responses{color:#000;}
+.demo-text{margin:20px;font-size:40px;line-height:45px;margin-top:100px;}
+.user-mode{background-image:url(/images/user-back2.jpg);background-position:center;height:700px;padding-top:60px;}
+.band-mode{background-image:url(/images/band-back.jpg);height:900px;}
+.login-screen{background-image:url(/images/band-back.jpg);text-align:center;background-position:center;height:700px;position:relative;}
+.login-btn-div{height:85%;width:95%;margin:auto;background-color:rgba(255,255,255,0.87);padding-top:50px;}
+.button{color:#000;font-family:Ubuntu, sans-serif;font-weight:700;}
+.notop{padding-top:0;}
+.opaque{opacity:.6;}
+.less-opaque{opacity:.9;}
+.sinister{background-color:#000;color:#fff;}
+h1,.h1,h2,.h2,h3,.h3{font-family:Ubuntu, sans-serif;font-weight:700;}
+.stagepass-header{background-color:#EF503B;color:#000;height:44px;}
+.stagepass-header-off{background:rgba(31,31,31,0.87);color:#000;height:64px;}
+.tab-item{opacity:1;color:#fff;}
+.menu{background:none;}
+#fileupload{position:absolute;top:-100px;}
+.band-search-box{background-color:#084C5F;}
+.band-search-box input{margin:10px;border-radius:3px;max-width:95%;}
+.item-avatar > img:first-child,.item-avatar .item-image,.item-avatar .item-content > img:first-child,.item-avatar .item-content .item-image,.item-avatar-left > img:first-child,.item-avatar-left .item-image,.item-avatar-left .item-content > img:first-child,.item-avatar-left .item-content .item-image{border-radius:0;max-height:62px;max-width:62px;height:62px;width:62px;left:0;top:0;}
+.band-list-name{text-transform:uppercase;font-weight:700;font-size:14px;color:#000;line-height:15px;margin-top:12px;}
+.item.active,.item.activated,.item-complex.active .item-content,.item-complex.activated .item-content,.item .item-content.active,.item .item-content.activated{border:none;border-bottom:1px solid #979797;}
+.band-pic-large{overflow:hidden;height:270px;background-position:center top;background-repeat:no-repeat;}
+.band-pic-large img{width:100%;}
+.details-band-name{z-index:1000;top:0;font-size:26px;color:#FFF;margin-top:-43px;line-height:42px;background:rgba(8,76,95,0.90);border-top:1px solid #979797;height:44px;text-align:center;}
+.details-band-bio{font-size:18px;color:#1F1F1F;line-height:27px;padding:15px;display:0;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;max-height:90px;}
+.stagepass-button{margin-top:15px;font-size:18px;color:#FFF;line-height:21px;border-radius:4px;background:#EF503B;width:95%;text-transform:uppercase;border:none;height:51px;}
+.stagepass-button-blue{margin-top:15px;font-size:18px;color:#FFF;line-height:21px;border-radius:4px;background:#084C5F;width:95%;text-transform:uppercase;border:none;height:51px;}
+.stagepass-redeemed{margin-top:15px;font-size:18px;font-weight:700;line-height:21px;width:95%;text-transform:uppercase;border:none;height:51px;}
+.center{text-align:center;width:100%;}
+.stagepass-header-off .share-header{margin-top:20px;font-size:12px;color:#FFF;line-height:14px;letter-spacing:0;text-transform:uppercase;}
+.stagepass-header-off .share-header-name{margin-top:35px;font-size:18px;color:#96E0E9;line-height:21px;letter-spacing:0;text-transform:uppercase;}
+.user-pic-btn .icon{color:#D8D8D8;box-shadow:0 -3px 0 0 #666;-moz-box-shadow:0 -3px 0 0 #666;font-size:200px;}
+.user-pic-btn{background:#666;border:1px solid #979797;max-height:300px;width:95%;}
+.upload-spacer{height:5px;}
+.arrow-up{margin-top:16px;width:0;height:0;border-left:5px solid transparent;border-right:5px solid transparent;border-bottom:5px solid #000;margin:auto;}
+.user-message-box{height:50px;border:1px solid #979797;width:95%;margin:auto;padding:5px;margin-top:5px;}
+textarea{font-family:Cabin, sans-serif;font-size:12px;color:#757575;line-height:15px;}
+.red-text{color:red;font-weight:700;}
+.band-list-messages-winner{font-size:18px;color:#000;line-height:17px;}
+.user-feed-sub-head{z-index:1000;top:0;font-size:26px;color:#FFF;margin-top:-17px;position:relative;line-height:42px;background:rgba(8,76,95,0.90);border:1px solid #979797;height:44px;text-align:center;}
+.user-pic-submitted{background:#666;border:1px solid #979797;height:302px;width:100%;}
+.no-border{border:none;}
+.list-item-meta{margin-left:70px;margin-top:-6px;padding-top:10px;}
+.button-bar{bottom:0;position:relative;margin-top:20px;text-align:center;}
+.login-title{background-color:#084C5F;color:#fff;text-transform:uppercase;margin-top:50px;padding:40px 0;}
+.login-title h1{color:#fff;text-transform:uppercase;}
+.artist-login-input{width:95%;margin-left:8px;border-radius:4px;text-align:center;text-transform:uppercase;font-family:cabin;border:2px solid #000;height:50px;font-size:23px;line-height:24px;margin-top:30px;}
+.button-pass{margin:auto;background:#212121;width:135px;height:51px;font-size:18px;color:#FFF;line-height:52px;text-align:center;font-weight:700;border-radius:4px;}
+.button-prize{margin:auto;background:#5BBA48;width:135px;height:51px;font-size:18px;color:#FFF;line-height:52px;text-align:center;font-weight:700;border-radius:4px;}
+.bar-modal{background-color:rgba(8,76,95,0.90);}
+.bold{font-weight:700;}
+.ion-social-facebook{float:left;border:2px solid #fff;border-radius:3px;width:40px;height:39px;}
+.ps-blue{color:#084C5F;}
+.facebook-button{line-height:40px;}
+.uppercase{text-transform:uppercase;}
+.hookup-text{font-size:18px;padding:15px 5px;}
+.tabs-striped{height:44px;}
+#footer,.stagepass-header .icon,.stagepass-header-off .icon,.sinister input,.tabs-striped .icon{color:#fff;}
+.no-top-margin,.login-button{margin-top:0;}
+.no-margins,.button.button-full{margin:0;}
+.stagepass-header .title,.stagepass-header-off .title{color:#fff;font-weight:800;text-transform:uppercase;letter-spacing:1px;font-style:17px;}
+.tabs-icon-only,.tabs{background-color:#084C5F;height:44px;}
+.submitted-name,.band-list-messages{font-size:14px;color:#000;line-height:16px;}
+.artist-key,.artist-key input{margin-left:8px;border-radius:4px;text-align:center;border:2px solid #000;height:50px;}
+.active-tab,.active-tab .icon{color:#96E0E9;}
+@-webkit-keyframes bounceIn {
+  0% {
+    -webkit-transform: scale(0,0);
+  }
+  70% {
+    -webkit-transform: scale(1.2,1.2);
+  }
+  100% {
+    -webkit-transform: scale(1,1);
+  }
+}

@@ -1,0 +1,51 @@
+<div class="bar bar-header stagepass-header" ng-show="currentUser">
+   <button class="button button-icon " ng-show="currentUser" onclick="window.history.back()"> 
+   <i class="icon ion-arrow-left-c"></i> 
+   </button>
+   <div class="h1 title" >StagePass</div>
+   <button class="button button-icon " ng-show="currentUser" ng-click="showActions()"> 
+   <i class="icon ion-log-out"></i> 
+   </button>
+</div>
+<div ng-show="currentUser" class="user-mode" >
+   <div class="user-feed-sub-head">
+      YOUR PRIZES
+   </div>
+   <ion-content class="has-header header-with-padding" animation="slide-left-right" padding="false" scroll="true" has-bouncing="true">
+      <ion-refresher on-refresh="updateAccepts()"
+         pulling-text="Pull to refresh..."
+         refreshing-text="Refreshing!"
+         refreshing-icon="ion-loading-c">         
+      </ion-refresher>
+      <div class="card card-list" ng-click="showPass(submission)"  ng-repeat="submission in usersReponses | orderBy:['-attributes.redeemed', '-attributes.timestamp']">
+         <div class="item item-text-wrap 5-padding">
+            <img class="user-pic-submitted" id="img" ng-src="http://stagepassapp.com/{{submission.attributes.image}}" />
+            <div>
+               <div class="prize-item">
+                  <div class="item item-avatar no-border 5-padding">
+                     <img ng-src="/images/perks/{{submission.attributes.hookupID}}.jpg">
+                     <div>
+                        <div class="band-list-messages-winner">{{submission.attributes.hookupName}} from {{submission.attributes.bandName}}</div>
+                        <div ng-show="submission.redeemed || submission.attributes.redeemed" class="band-list-messages assertive red-text">Redeemed</div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <br><br><br>
+   </ion-content>
+
+</div>
+<ion-footer-bar>
+   <ion-tabs class=" tabs-icon-only"  ng-show="currentUser">
+      <ion-tab title="Home" icon="ion-home" href="#/winnerfeed">
+      </ion-tab>
+      <ion-tab title="Bands" icon="ion-music-note" href="#/bandlist">
+      </ion-tab>
+      <ion-tab title="User Feed" icon="ion-image" href="#/userfeed">
+      </ion-tab>
+      <ion-tab title="Prizes" icon="ion-trophy" href="#/prizes" badge="unredeemed.length" badge-style="badge-assertive" class="active-tab">
+      </ion-tab>
+   </ion-tabs>
+</ion-footer-bar>

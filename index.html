@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width minimal-ui">
+      <title>StagePass</title>
+      <!-- Le CSS -->
+      <link href="lib/ionic/css/ionic.css" rel="stylesheet">
+      <link href="css/style.css" rel="stylesheet">
+      <!-- Fonts -->
+      <link href='http://fonts.googleapis.com/css?family=Cabin:400,700' rel='stylesheet' type='text/css'>
+      <link href='http://fonts.googleapis.com/css?family=Ubuntu:400,700' rel='stylesheet' type='text/css'>
+      <!-- Angular + Ionic -->
+      <script src="lib/ionic/js/ionic.bundle.js"></script>
+   </head>
+   <body ng-app="stagePass">
+      <div ng-controller="CardsCtrl">
+        <ion-side-menus>
+          <ion-side-menu-content drag-content="false">
+               <div ui-view ng-controller="UserCtrl" ></div>
+               <script id="hook-modal.html" type="text/ng-template">
+                  <div class="modal">
+                     <header class="bar bar-header bar-modal">
+                       <h1 class="title">Select a Prize to give</h1>
+                      <!-- <div class="button button-clear" ng-click="hookModal.hide()"><span class="icon ion-close"></span></div>-->
+                     </header>
+                     <ion-content class="has-header" animation="slide-left-right" padding="fasle" scroll="true" has-bouncing="true">
+                       <ul class="list" style="text-align:left; height:60px; ">
+                         <li class="item item-avatar" style="padding:5px; padding-left:10px;" ng-repeat="item in hookups" div ng-show="item.remaining > 0" ng-click="selectHooks(item)" >
+                           <img ng-src="/images/perks/{{item.id}}.jpg" style="left:10px;">
+                           <div class="list-item-meta" style="margin-top:10px">
+                           <div style="max-width:200px; float:left;">
+                             <h2 class="band-list-name" style="max-width:200px;" ng-class="{assertive: item.remaining < 1}">{{item.name}}</h2>
+                             <div class="band-list-messages-winner" style="max-width:200px; font-size:12px; overflow:hidden;" ng-class="{assertive: item.remaining < 1}">{{item.description}}
+                             </div>
+                           </div>
+                           <div style="float:right;font-size:24px; padding-right:15px;">{{item.remaining}}</div>
+                           </div>
+                      
+                         </li>
+                        </ul>
+                  
+                     </ion- content>
+                   
+                    </div>
+                </script>
+                <script id="pass-modal.html" type="text/ng-template">
+                   <div class="modal" style="background-color:#F7F7F7;">
+                      <header class="bar bar-header bar-modal">
+                        <h1 class="title uppercase">Your Prize</h1>
+                        <div class="button button-clear" ng-click="passModal.hide()"><span class="icon ion-close"></span></div>
+                      </header>
+                      <ion-content has-header="true" scroll="true" padding="false" >
+                      <br><br>
+                        <div class="list card">
+                          <div class="item item-avatar uppercase" style="padding-bottom:0px; min-height:63px;">
+                            <img style="padding:5px;" ng-src="http://s3.amazonaws.com/dostuff-production/band_alternate_photo/custom_photos/{{selectedPass.attributes.bandImageId}}/custom.jpg">
+                            <h2 style="margin-top:-6px;">{{selectedPass.attributes.hookupName}}</h2>
+                            <p>{{selectedPass.attributes.bandName}}</p>
+                          </div>
+                   
+                          <div class="item item-image">
+                            <img style="max-height:200px;" ng-src="/images/perks/{{selectedPass.attributes.hookupID}}.jpg">
+                          </div>
+                          <div class="hookup-text">
+                            {{selectedPass.attributes.hookupText}}
+                          </div>
+                        </div>
+                        <div class="center">
+                           <button class="button stagepass-button-blue" style="line-height:40px;" ng-click="shareFB(selectedPass)">
+                              <span class=" icon ion-social-facebook " style="float:left; border:2px solid #fff; border-radius:3px; width:40px; height:39px;"></span> 
+                              <span style="margin-left:-40px;"> Brag about it! </span>
+                            </button> 
+                          <button ng-hide="selectedPass.attributes.redeemed || selectedPass.redeemed" class="button stagepass-button" style="line-height:40px;" ng-click="redeemPass(selectedPass)">
+                            <span>Mark as Redeemed</span>
+                          </button> 
+                          <div ng-show="selectedPass.attributes.redeemed || selectedPass.redeemed" class="stagepass-redeemed assertive" style="line-height:40px;" >
+                           Redeemed
+                          </div> 
+                        </div>
+                      </ion-content>
+                    </div>
+                </script>
+          </ion-side-menu-content>
+        </ion-side-menus>
+      </div>
+   </body>
+   <div id="fb-root"></div>
+   <script>
+      window.fbAsyncInit = function() {
+          FB.init({appId: '726372647410058', status: true, cookie: true,
+          xfbml: true});
+      };
+      (function() {
+          var e = document.createElement('script'); e.async = true;
+          e.src = document.location.protocol +
+          '//connect.facebook.net/en_US/all.js';
+          document.getElementById('fb-root').appendChild(e);
+      }());
+   </script>
+   <!-- Card swipe Ionic plugin -->
+   <script type="text/javascript" src="js/ionic.cards.js"></script>
+   
+   <!-- Angular plugins -->
+   <script type="text/javascript" src="lib/angular/angular-cookies.min.js"></script>
+   <script type="text/javascript" src="lib/angular/angular-route.min.js"></script>
+
+   <!-- Parse's (Back end as a service) JS API -->
+   <script type="text/javascript" src="//www.parsecdn.com/js/parse-1.2.19.min.js"></script>
+
+   <!-- My app code-->
+   <script type="text/javascript" src="js/app.js"></script>
+   <script type="text/javascript" src="js/controllers.js"></script>
+
+   <!-- This is where things get interesting, when you have 80K people in the same area,
+        sending 3MB image files from all of our high res camera phones is going to drag 
+        over a cell network, so I decided to resize and crop the images client side in 
+        order to reduce file size, these are all the plugins I'm using for that -->
+
+   <!--JQuery-->
+   <script type="text/javascript" src="js/vendor/jquery.min.js"></script>
+   <!-- The jQuery UI widget factory -->
+   <script type="text/javascript" src="js/vendor/jquery.ui.widget.js"></script>
+   <!-- The Load Image plugin is included for the preview images and image resizing functionality -->
+   <script type="text/javascript" src="js/vendor/load-image.min.js"></script>
+   <!-- The Canvas to Blob plugin is included for image resizing functionality -->
+   <script type="text/javascript" src="js/vendor/canvas-to-blob.min.js"></script>
+   <!-- The Iframe Transport is required for browsers without support for XHR file uploads -->
+   <script type="text/javascript" src="js/vendor/jquery.iframe-transport.js"></script>
+   <!-- The basic File Upload plugin -->
+   <script type="text/javascript" src="js/vendor/jquery.fileupload.js"></script>
+   <!-- The File Upload processing plugin -->
+   <script type="text/javascript" src="js/vendor/jquery.fileupload-process.js"></script>
+   <!-- The File Upload image preview & resize plugin -->
+   <script type="text/javascript" src="js/vendor/jquery.fileupload-image.js"></script>
+   </body>
+</html>

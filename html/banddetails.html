@@ -1,0 +1,36 @@
+<div class="bar bar-header stagepass-header" ng-show="currentUser">
+   <button class="button button-icon" ng-show="currentUser" onclick="window.history.back()"> 
+   <i class="icon ion-arrow-left-c"></i> 
+   </button>
+   <div class="h1 title">StagePass</div>
+   <button class="button button-icon" ng-show="currentUser" ng-click="showActions()"> 
+   <i class="icon ion-log-out"></i> 
+   </button>
+</div>
+<ion-content class="has-header" animation="slide-left-right" padding="false" scroll="true" has-bouncing="true">
+   <div class="band-pic-large" style="background-image: url('http://s3.amazonaws.com/dostuff-production/band_alternate_photo/custom_photos/{{selectedBand.imageid}}/custom.jpg');">
+   </div>
+   <div class="details-band-name">
+      {{selectedBand.artist}}
+   </div>
+   <div class="details-band-bio">
+      {{selectedBand.bio}}
+   </div>
+   <div class="center">
+      <button class="button stagepass-button" ng-click="goToSubmit()">
+      Send them a Picture
+      </button>
+   </div>
+</ion-content>
+<ion-footer-bar>
+   <ion-tabs class=" tabs-icon-only"  ng-show="currentUser">
+      <ion-tab title="Home" icon="ion-home" href="#/winnerfeed" >
+      </ion-tab>
+      <ion-tab title="Bands" icon="ion-music-note" href="#/bandlist" class="active-tab"0>
+      </ion-tab>
+      <ion-tab title="User Feed" icon="ion-image" href="#/userfeed">
+      </ion-tab>
+      <ion-tab title="Prizes" icon="ion-trophy" href="#/prizes" badge="unredeemed.length" badge-style="badge-assertive">
+      </ion-tab>
+   </ion-tabs>
+</ion-footer-bar>

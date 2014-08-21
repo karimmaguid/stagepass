@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Stage Pass",
+        "description": "Backstage pass for you and a guest.",
+        "id": "h1",
+        "allotment": 1
+    },
+      {
+        "name": "Virgin America Ticket",
+        "description": "Good for one-way domestic flight. Redeem at StagePass booth.",
+        "id": "h2",
+        "allotment": 1
+    },
+    {
+        "name": "PayPal Gift Card",
+        "description": "$25 PayPal gift card. Redeem at StagePass booth.",
+        "id": "h3",
+        "allotment": 4
+    },
+    {
+        "name": "Levis Gift Card",
+        "description": "$25 gift card to Levis. Redeem at StagePass booth.",
+        "id": "h4",
+        "allotment": 4
+    },
+    {
+        "name": "Heineken Beer",
+        "description": "Good for one beer at Beer Lands",
+        "id": "h5",
+        "allotment": 10
+    },
+    {
+        "name": "Sierra Nevada Beer",
+        "description": "Good for one beer at Beer Lands",
+        "id": "h6",
+        "allotment": 10
+    },
+    {
+        "name": "21st Amendment Beer",
+        "description": "Good for one beer at Beer Lands",
+        "id": "h7",
+        "allotment": 5
+    },
+     {
+        "name": "Menage a Trois Beer",
+        "description": "Good for one tasting at Wine Lands",
+        "id": "h8",
+        "allotment": 5
+    },
+     {
+        "name": "Cannonball Wine Company Wine",
+        "description": "Good for one tasting at Wine Lands",
+        "id": "h9",
+        "allotment": 5
+    },
+    {
+        "name": "Blue Bottle Coffee Co. Coffee",
+        "description": "Good for one drip coffee",
+        "id": "h10",
+        "allotment": 5
+    },
+    {
+        "name": "Three Twins Ice Cream",
+        "description": "Good for one scoop",
+        "id": "h11",
+        "allotment": 5
+    },
+    {
+        "name": "Del Popolo",
+        "description": "Good for one pizza of your choice",
+        "id": "h12",
+        "allotment": 5
+    }
+]

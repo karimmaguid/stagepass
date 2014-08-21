@@ -1,0 +1,1392 @@
+[
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/kanye-west", 
+        "ids": {
+            "spotify": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+            "gracenote": "140643862-9BCF9726FFBE8904A58D8DC4B995D39B", 
+            "openaura": "52991f89e4b0bd2cefd3a2cd", 
+            "outside": "42028", 
+            "rdio": "r20227", 
+            "musicbrainz": "164f0d73-1234-4e2c-8743-d77bf2191051", 
+            "echonest": "ARRH63Y1187FB47783"
+        }, 
+        "artist": "Kanye West",
+        "imageid": "42075",
+        "bio": "Kanye West is a musician, producer, artist, author and designer. He has sold over 30 million albums and over 80 million digital tracks worldwide. Over the course of his career, he has had six consecutive #1 albums and seven #1 singles, along with scores of radio hits and millions of concert tickets sold worldwide."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/arctic-monkeys", 
+        "ids": {
+            "spotify": "spotify:artist:7Ln80lUS6He07XvHI8qqHH", 
+            "gracenote": "367730686-04DDDFA122BA087EE3BBD47DA8D35F8C", 
+            "openaura": "52991fe2e4b0bd2cefd3f786", 
+            "outside": "12647", 
+            "rdio": "r85092", 
+            "musicbrainz": "ada7a83c-e3e1-40f1-93f9-3e73dbc9298a", 
+            "echonest": "ARM0P6Z1187FB4D466"
+        }, 
+        "artist": "Arctic Monkeys",
+        "imageid": "41857",
+        "bio": "The band’s initials, a new morning, an analogue radio frequency and an existential statement - the title of Arctic Monkeys’ fifth album AM suggests all of those things and more."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/disclosure", 
+        "ids": {
+            "spotify": "spotify:artist:6nS5roXSAGhTGr34W6n7Et", 
+            "gracenote": "343671210-0F2EAA516A1D4DB488C09B821067825F", 
+            "openaura": "5299207ee4b0bd2cefd48fc1", 
+            "outside": "134093", 
+            "rdio": "r3928527", 
+            "musicbrainz": "ae65c507-d9a0-4d42-9a6c-2b1f82158b9f", 
+            "echonest": "ARPCATO12B3B3540E2"
+        }, 
+        "artist": "Disclosure",
+        "imageid": "41857",
+        "bio": "For a while it seemed like the chain-of-command in Britain’s dance establishment was forever set in stone. The Chemical Brothers, Basement Jaxx and Fatboy Slim would headline festivals from now until the end of days."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/tegan-and-sara", 
+        "ids": {
+            "spotify": "spotify:artist:5e1BZulIiYWPRm8yogwUYH", 
+            "gracenote": "319615338-C62A1BAA48A22EDE8A5AADE235DE94C6", 
+            "openaura": "52991ef4e4b0bd2cefd3164d", 
+            "outside": "110079", 
+            "rdio": "r86700", 
+            "musicbrainz": "d13f0f47-36f9-4661-87fe-2de56f45c649", 
+            "echonest": "ARAI3JW1187FB52DE1"
+        }, 
+        "artist": "Tegan & Sara",
+        "imageid": "41917",
+        "bio": "Tegan and Sara’s 13-year career has seen them build an avid global following of fans and fellow musicians alike. Their unique ability to bridge the pop and indie worlds has allowed their music to cross all traditional boundaries of genre, from being covered by The White Stripes to collaborating with superstar DJs such as Tiesto and David Guetta."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/tedeschi-trucks-band", 
+        "ids": {
+            "spotify": "spotify:artist:2gFsmDBM0hkoZPmrO5EdyO", 
+            "gracenote": "243363249-4F2577935F836F44ACF8B94475E22BD7", 
+            "openaura": "52991963e4b0bd2cefcda89e", 
+            "outside": "175886", 
+            "rdio": "r956872", 
+            "musicbrainz": "e33e1ccf-a3b9-4449-a66a-0091e8f55a60", 
+            "echonest": "ARUWXHX12F54FAD86C"
+        }, 
+        "artist": "Tedeschi Trucks Band",
+        "imageid": "41993",
+        "bio": "Tedeschi Trucks Band is an 11-member collective that thrills audiences worldwide with its transcendent live performances and award-winning albums.Formed in 2010 by husband-and-wife Susan Tedeschi and Derek Trucks, and featuring two harmony singers, a three-piece horn section, keyboards, bass and a pair of drummers, TTB disproves the adage “less is more” while building a devoted following of fans and critics alike."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/chromeo", 
+        "ids": {
+            "spotify": "spotify:artist:2mV8aJphiSHYJf43DxL7Gt", 
+            "gracenote": "129809126-520660B5B2CF818D9497260C9258E8A4", 
+            "openaura": "52991e0fe4b0bd2cefd23c53", 
+            "outside": "37193", 
+            "rdio": "r89199", 
+            "musicbrainz": "647221d0-f6b1-4e03-924c-c59b8059536f", 
+            "echonest": "ARAGT961187FB4193B"
+        }, 
+        "artist": "Chromeo",
+        "imageid": "41865",
+        "bio": "Imagine, if you will, a yacht. It’s forged of gold and strong African teak, bobbing gently at anchor somewhere between the French Riviera and Detroit. A statue of the late Roger Troutman is affixed to the stern like a guardian angel. The ladies of Klymaxx wander the decks serving strawberries and cream on silver platters. "
+
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/kacey-musgraves", 
+        "ids": {
+            "spotify": "spotify:artist:70kkdajctXSbqSMJbQO424", 
+            "gracenote": "325534800-6F0A05AFD945EFD6208D6FFCD65CF8EF", 
+            "openaura": "529921c2e4b0bd2cefd5b0ab", 
+            "outside": "42873", 
+            "rdio": "r350301", 
+            "musicbrainz": "d1393ecb-431b-4fde-a6ea-d769f2f040cb", 
+            "echonest": "AROJNKE11EB9C8253F"
+        }, 
+        "artist": "Kacey Musgraves",
+        "imageid": "42149",
+        "bio": "After listening to Same Trailer Different Park, the Nashville-based singer-songwriter’s first album for Mercury Records, it’s clear that this is a girl who has something to say. A true language artist, Kacey nimbly spins webs of words to create the quirky puns, shrewd metaphors, and steely ironies that fill the record."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/grouplove", 
+        "ids": {
+            "spotify": "spotify:artist:3kVUvbeRdcrqQ3oHk5hPdx", 
+            "gracenote": "250018849-CC9B5A64FD9B7D69CD5CA806DA1FBF61", 
+            "openaura": "52991ea9e4b0bd2cefd2cb9d", 
+            "outside": "86118", 
+            "rdio": "r768041", 
+            "musicbrainz": "d8e41375-bd8d-4e39-9da7-f0c171e97086", 
+            "echonest": "ARLJFSL12D7AF58D83"
+        }, 
+        "artist": "Grouplove",
+        "imageid": "42035",
+        "bio": "After scoring success with their chart topping single 'Tongue Tied' and spending over two years on the road supporting their 2011 debut Never Trust A Happy Song, Grouplove took less than a week’s break before beginning work on their new album, Spreading Rumours. Where most bands might opt to take more time off, the LA-based quintet found themselves invigorated and inspired by the energy shared with their fans and, perhaps more importantly, with each other whenever they took the stage."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/nicki-bluhm", 
+        "ids": {
+            "outside": "113541"
+        }, 
+        "artist": "Nicki Bluhm and The Gramblers",
+        "imageid": "41903",
+        "bio": "Nicki Bluhm and the Gramblers made a needle’s-eye leap onto the national music circuit in 2012, bringing with them a refreshing sound, spirited stage show and wellspring of good vibes, along with a turntable and milk crates stocked with their favorite vintage vinyl for backstage sustenance."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/phosphorescent", 
+        "ids": {
+            "spotify": "spotify:artist:57kIMCLPgkzQlXjblX7XXP", 
+            "gracenote": "323528182-4F2DD7A14777D82DEAF731A2895FF9FE", 
+            "openaura": "52991cb4e4b0bd2cefd0f19e", 
+            "outside": "41211", 
+            "rdio": "r86597", 
+            "musicbrainz": "739da2f1-0741-4c60-a6ed-f42d49bf2eb1", 
+            "echonest": "ARL9MID1187B9ABA14"
+        }, 
+        "artist": "Phosphorescent",
+        "imageid": "42139",
+        "bio": "Nearly three years on from his breakthrough album Here’s To Taking It Easy, Phosphorescent returns to the fray with his most stunning record yet: Muchacho . During the last album’s ‘cycle’, one could almost hear jaws hitting the floor witnessing a live band of such infinite verve."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/run-the-jewels", 
+        "ids": {
+            "outside": "568121"
+        }, 
+        "artist": "Run the Jewels (El-P & Killer Mike)",
+        "imageid": "41909",
+        "bio": "EL-P + KILLER MIKE = RUN THE JEWELS. El-P’s self-produced Cancer 4 Cure reanimated Brooklyn rap last year with his signature lyrical conviction and bruising production; he also handled all of the beats for Mike’s R.A.P. Music LP, which dropped a few weeks earlier."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/holy-ghost", 
+        "ids": {
+            "spotify": "spotify:artist:2Vhc7Y0Kc6HzMC6glKM4h6", 
+            "gracenote": "370209532-8FC983AAA2C78433D40898FDBB6ACEA8", 
+            "openaura": "529921f7e4b0bd2cefd5dea1", 
+            "outside": "47836", 
+            "rdio": "r224436", 
+            "musicbrainz": "3c0d5463-6688-4f4a-8273-a191657d8084", 
+            "echonest": "AR3Q2FQ1187FB5CAFE"
+        }, 
+        "artist": "Holy Ghost!",
+        "imageid": "41991",
+        "bio": "The abridged version of the story of Holy Ghost! – the one that begins in 2007 with the release of the duo's highly acclaimed, revelatory debut single 'Hold On' – is less than half the story."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/warpaint", 
+        "ids": {
+            "spotify": "spotify:artist:3AmgGrYHXqgbmZ2yKoIVzO", 
+            "gracenote": "194070283-7B083762EAC9753BAA837CEE43DE43E3", 
+            "openaura": "52991cc2e4b0bd2cefd0fe75", 
+            "outside": "53454", 
+            "rdio": "r429509", 
+            "musicbrainz": "cf82a38f-9413-4333-bacb-ca5b6db95794", 
+            "echonest": "ARCHKFC12420783A79"
+        }, 
+        "artist": "Warpaint",
+        "imageid": "42063",
+        "bio": "Warpaint weave intricate guitar lines, hypnotic vocals and driving post punk rhythms into gorgeous, sprawling songs that skirt the line between psychedelia and intimacy. Both live and on record, Warpaint sound like they’re channeling something truly otherworldly, and mystical. Rough Trade released their long-awaited debut full-length album."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/typhoon", 
+        "ids": {
+            "spotify": "spotify:artist:6kBlEsdNeNW2qnmW56xDhx", 
+            "gracenote": "204858210-0E697FAA36A452ABCD2F2443BF1D837A", 
+            "openaura": "52991a46e4b0bd2cefce8b5a", 
+            "outside": "107180", 
+            "rdio": "r2776312", 
+            "musicbrainz": "59fc6a32-6f05-4590-9a8d-c8bac31d474c", 
+            "echonest": "ARO4DKQ1187B999536"
+        }, 
+        "artist": "Typhoon",
+        "imageid": "42033",
+        "bio": "Dear Reader, I don't remember much, but I remember this one thing with clarity. I was in the backyard looking up at my father; he was bent over raking leaves, explaining to me over his shoulder what it meant to be a good man--to keep your word and do the work you set out to do. I was a child then and the words were a mystery, having little conception of what kind of man I would be, what sort of work I would do or how I would set about doing it."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/greensky-bluegrass", 
+        "ids": {
+            "spotify": "spotify:artist:33bzrYoIWLx5uox3y0VtHn", 
+            "openaura": "52991f53e4b0bd2cefd36ee8", 
+            "outside": "48059", 
+            "rdio": "r2516244", 
+            "musicbrainz": "199596a3-a1af-49f8-8795-259eff8461fb", 
+            "echonest": "ARPPZAK11EB9C81A2E"
+        }, 
+        "artist": "Greensky Bluegrass",
+        "imageid": "42051",
+        "bio": "If you're familiar with bluegrass music, then you're tuned in to some of what Greensky Bluegrass does. They're also known to throw a great party, rock n roll, and (if the critics are to be believed) they have great songs. They are unquestionably a team of friends that traverse the country making music they enjoy."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/bleachers", 
+        "ids": {
+            "spotify": "spotify:artist:4GvRwJcjpFXkO2KPypdLvD", 
+            "openaura": "52991e54e4b0bd2cefd27ac3", 
+            "outside": "556085", 
+            "rdio": "r708074", 
+            "musicbrainz": "1ccd1da1-f6e0-42a7-b222-81051dae89ad", 
+            "echonest": "AR2Z5851187FB3F564"
+        }, 
+        "artist": "Bleachers",
+        "imageid": "42005",
+        "bio": "Grammy award winning artist and songwriter Jack Antonoff announces his new project Bleachers with the release of the debut single 'I Wanna Get Better.'' A founding member of the Grammy award winning band fun. and singer/songwriter of the beloved New Jersey band Steel Train, Antonoff wrote and co-produced the Bleachers debut single alongside producer John Hill (MIA, Jay Z, Empire of the Sun). "
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/soul-rebels", 
+        "ids": {
+            "spotify": "spotify:artist:10NEMYLJwVvYSvtvZn5Ipz", 
+            "openaura": "52991e6ce4b0bd2cefd291ba", 
+            "outside": "196879", 
+            "rdio": "r548240", 
+            "musicbrainz": "31ef1bb0-88a2-40ed-9a56-089eea68f7c2", 
+            "echonest": "ARWNTVV11F4C83D3A1"
+        }, 
+        "artist": "The Soul Rebels",
+        "imageid": "42528",
+        "bio": "THE SOUL REBELS are off to an explosive start in 2013. After riding high from a blowout CMJ Showcase at New York’s Highline Ballroom, packed shows at Austin City Limits, The Soul Rebels returned to their hometown of New Orleans to play as the house band for the nationally televised 2013 NFL Honors Awards Show hosted by Alec Baldwin on CBS Superbowl weekend."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/bear-hands", 
+        "ids": {
+            "spotify": "spotify:artist:3ViZST9PgFoieuOHY2GZMp", 
+            "gracenote": "379995436-DDA423A392629F3F8D0ED489C079FC90", 
+            "openaura": "529918f6e4b0bd2cefcd36a6", 
+            "outside": "41275", 
+            "rdio": "r347726", 
+            "musicbrainz": "6e73e900-c27f-4893-a6db-32f23306a841", 
+            "echonest": "ARBPOTO12086C1723E"
+        }, 
+        "artist": "Bear Hands",
+        "imageid": "42047",
+        "bio": "Bear Hands are a textbook example of contrasting personalities uniting to craft something more than the sum of their parts. Vocalist/guitarist Dylan Rau, the Brooklyn-based quartet’s self-confessed musical Luddite ('I can’t read music, but that’s ok because I’m more of an ideas man,') peppers his supersonic chatter with an infectious collection of witticisms."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/mikal-cronin", 
+        "ids": {
+            "spotify": "spotify:artist:6QobJ3vnalBTlsdOrvQTIt", 
+            "gracenote": "328054620-723B32C0A9907532063587F5F76E6076", 
+            "openaura": "529921cae4b0bd2cefd5b593", 
+            "outside": "219750", 
+            "rdio": "r2702590", 
+            "musicbrainz": "c1a217e0-4b3e-46d7-9613-6a14c9e70895", 
+            "echonest": "ARGZBLE11C8A421758"
+        }, 
+        "artist": "Mikal Cronin",
+        "imageid": "41977",
+        "bio": "Mikal Cronin’s self-titled debut from 2011 was all about endings: the end of college, the end of a serious relationship, and the end of his time in Los Angeles, where he grew up. So it’s no surprise that his sophomore release MCII—and first disc for Merge Records—is all about new beginnings."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/medicine-for-the-people", 
+        "ids": {
+            "spotify": "spotify:artist:35fFUv2850L9CQjjNrLBpb", 
+            "outside": "204919", 
+            "echonest": "ARSQBDB13EBECA065F", 
+            "rdio": "r2961928"
+        }, 
+        "artist": "Nahko and Medicine for the People",
+        "imageid": "41981",
+        "bio": "Nahko, an Oregon-native born a mix of Apache, Puerto Rican, and Filipino cultures and adopted into an American family, suffered an identity crisis from an early age. When he took up the piano at age six, the unifying power of music entered his life and brought him harmony."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/aer", 
+        "ids": {
+            "spotify": "spotify:artist:25hbSOMmbhgqvonjC876UJ", 
+            "gracenote": "392691261-815112EF2042E3B82E7A73FF976BCF5A", 
+            "openaura": "52991af2e4b0bd2cefcf38db", 
+            "outside": "138972", 
+            "musicbrainz": "cc54c3bf-ecb1-463d-953a-e5d1496f3c86", 
+            "echonest": "AR1P4XM1187FB40368"
+        }, 
+        "artist": "Aer",
+        "imageid": "42722",
+        "bio": "Boston duo Aer, formed by David von Mering & Carter Schultz, have created their own brand of music comprised of rap, reggae, pop & indie rock. Aer unveiled their debut album The Bright Side, in 2012, which independently earned the No. 1 spot on iTunes Albums chart and Billboard’s Top 200"
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/night-terrors-of-1927", 
+        "ids": {
+            "spotify": "spotify:artist:7m3fe3erw9iO9gs4AeLSG8", 
+            "outside": "460917", 
+            "echonest": "ARKZGXU13B864F23BD", 
+            "rdio": "r2459967"
+        }, 
+        "artist": "Night Terrors of 1927",
+        "imageid": "42145",
+        "bio": "Blake Sennett and Jarrod Gorbel had no intention of being in a band together when they started writing the songs that evolved into Night Terrors of 1927. They were just trying something different."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/rayland-baxter", 
+        "ids": {
+            "spotify": "spotify:artist:251UrhgNbMr15NLzQ2KyKq", 
+            "openaura": "52991dc8e4b0bd2cefd201da", 
+            "outside": "78051", 
+            "rdio": "r2167108", 
+            "musicbrainz": "9dd9a2fb-891e-44d8-97ef-ca1d69aa2d7a", 
+            "echonest": "ARZJSGN139209CE38D"
+        }, 
+        "artist": "RayLand Baxter",
+        "imageid": "42023",
+        "bio": "It’s hard to pinpoint the moment that songs are born, the day casual hummers become singers or scribblers become songwriters. Rayland Baxter certainly can’t, and he wouldn’t want to. Though he grew up in Nashville to the sounds of his father’s pedal steel, he didn’t dream of being a rock star. He loved music, of course, but he liked other things, too: being outside, playing sports, working at the bait shop to make spare change."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/dj-icey", 
+        "ids": {
+            "spotify": "spotify:artist:6bqEoxxGlwtRXZsoAXJFzA", 
+            "gracenote": "7153460-2C8BF72F6B2A3DC0E082ECFAC5FF6437", 
+            "openaura": "529918f4e4b0bd2cefcd343d", 
+            "outside": "42224", 
+            "rdio": "r90163", 
+            "musicbrainz": "138dd95b-9311-416e-bcdd-a80067289de6", 
+            "echonest": "ARHP6H31187FB4A38C"
+        }, 
+        "artist": "DJ Icey",
+        "imageid": "44835",
+        "bio": "U.S. based DJ Icey developed his passion for the beat by his steady diet of Miami Bass, 90s Hip Hop, Freestyle and Acid House back in the day. On the strength of his late 90s singles and album output, championed by DJs the world over, Icey burst onto the global scene with his award winning Essential Mix compilation released on FFRR in 2000,."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/paul-johnson", 
+        "ids": {
+            "spotify": "spotify:artist:4BqZuFqHJ8CLn3ig0f1m0G", 
+            "gracenote": "63157171-B4E49E300FDFC2C151C849F73A2ED901", 
+            "openaura": "52991ef9e4b0bd2cefd31ba0", 
+            "outside": "67658", 
+            "rdio": "r15252", 
+            "musicbrainz": "07065c90-1519-4bd9-8259-9872f3c9a776", 
+            "echonest": "ARASCJD1187FB53A79"
+        }, 
+        "artist": "Paul Johnson",
+        "imageid": "44847",
+        "bio": "Born and raised on the south side of Chicago, the birthplace of house music, Paul Johnson, started making waves in the music community at the early age of thirteen. In the summer of 1984, Paul Johnson taught himself how to spin after watching his cousin Marc spin and scratch in his bedroom."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/motion-potion", 
+        "ids": {
+            "musicbrainz": "203685a4-b312-4049-ae25-e88ac8cbb582", 
+            "openaura": "52991903e4b0bd2cefcd4482", 
+            "outside": "62155", 
+            "echonest": "ARH2OJW1187B9AE0D5"
+        }, 
+        "artist": "Motion Potion",
+        "imageid": "44845",
+        "bio": "In 2014, Motion Potion will re-emerge from the busiest 'hiatus' since the term was coined. After touring and producing for more than 17 years, the San Francisco DJ/producer spent most of 2009-2013 focused on his two other babies: production companies Silent Frisco andSunsetSF."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/dj-dials", 
+        "ids": {
+            "spotify": "spotify:artist:73q6o0DNbpIowxpSqs6hjs", 
+            "outside": "107917", 
+            "echonest": "ARJTTAS1309DFD2F64", 
+            "rdio": "r1060173"
+        }, 
+        "artist": "DJ Dials",
+        "imageid": "44951",
+        "bio": "I am so tired. Like right now, if I could fall asleep I might drown in my own slobber. I'm not tired of playing music for people- I like doing that. I've been djing for over 14 years! I've done pretty much every aspect of DJING from playing in weird other countries to celebrity weddings, barmitzvahs, and clubs of all different shapes and sizes."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/shouts", 
+        "ids": {
+            "outside": "647611", 
+            "echonest": "ARMTWZN1269FCD91D9", 
+            "rdio": "r2606978"
+        }, 
+        "artist": "Shouts!",
+        "imageid": "44851",
+        "bio": "Shouts! is a project by San Francisco bass music producer Jason C Apple. After many years of producing as Ground Control, Shouts! was created as an outlet for weirder, more emotive music while still working a dancefloor. More than anything, Shouts! is about trying to figure out how sound becomes a feeling."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/lewis-black", 
+        "ids": {
+            "spotify": "spotify:artist:6XloIaGQ9H1Nn37puBzQqm", 
+            "gracenote": "47079174-EA8AEDD05FF43BC33B4E96DB7CAD2510", 
+            "openaura": "52991bd2e4b0bd2cefd013dd", 
+            "outside": "42332", 
+            "rdio": "r44593", 
+            "musicbrainz": "96774518-0e32-4a69-8aa3-8df0527fb6af", 
+            "echonest": "AROFNQO1187FB4E860"
+        }, 
+        "artist": "Lewis Black",
+        "imageid": "45171",
+        "bio": "Hi"
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/aisha-tyler", 
+        "ids": {
+            "spotify": "spotify:artist:61KCQz5oO2VtckbzwooBTd", 
+            "openaura": "52991d87e4b0bd2cefd1c172", 
+            "outside": "213311", 
+            "rdio": "r738566", 
+            "musicbrainz": "e8431027-ef54-4998-9bb8-1c8c83ac40e9", 
+            "echonest": "ARTBDGS122BCFCBBC9"
+        }, 
+        "artist": "Aisha Tyler",
+        "imageid": "45181",
+        "bio": "I'm funny"
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/garfunkel-and-oates", 
+        "ids": {
+            "spotify": "spotify:artist:2wZcAibn3pVsNvp95HQx8n", 
+            "gracenote": "189444578-99D0DE845F6EDC680AAEF9350044EAE5", 
+            "openaura": "52991be1e4b0bd2cefd02232", 
+            "outside": "126717", 
+            "rdio": "r2064632", 
+            "musicbrainz": "fa7466b4-1521-482a-94f3-81b3c8b5b0b3", 
+            "echonest": "ARZMOGA124724E2799"
+        }, 
+        "artist": "Garfunkel & Oates",
+        "imageid": "45179",
+        "bio": ""
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/rory-albanese-", 
+        "ids": {
+            "outside": "772220", 
+            "echonest": "ARACQXX134198E6ADB"
+        }, 
+        "artist": "Rory Albanese",
+        "imageid": "45183",
+        "bio": "Rory Albanese is the 9 time Emmy Award-winning Executive Producer and Writer for The Daily Show with Jon Stewart. He has been a key part of The Daily Show since 1999, including Co-Authoring 'Earth The Book' with Jon Stewart and the Daily Show writers."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/matt-mccarthy-", 
+        "ids": {
+            "spotify": "spotify:artist:3V4ODgUObsEHFX6GQUy8xl", 
+            "outside": "781735", 
+            "echonest": "ARWCZHB12802FDD50F", 
+            "rdio": "r1402587"
+        }, 
+        "artist": "Matt McCarthy",
+        "imageid": "45280",
+        "bio": "Matt McCarthy was born in Providence RI and began his performance career as the Fordham University mascot. Nowadays, he performs stand-up comedy all over NYC and has appeared on Comedy Central's Live at Gotham."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/aparna-nancherla", 
+        "ids": {
+            "outside": "86482"
+        }, 
+        "artist": "Aparna Nancherla",
+        "imageid": "45175",
+        "bio": "Aparna started out doing comedy in her hometown of Washington, D.C. and currently resides in New York City, where most recently she was a writer and regular correspondent on FX’s Totally Biased with W. Kamau Bell."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/ali-mafi-", 
+        "ids": {
+            "outside": "781734"
+        }, 
+        "artist": "Ali Mafi",
+        "imageid": "45278",
+        "bio": "Ali Mafi may be the world's only gay Iranian comic, and he's certainly the funniest. Ali has had two television specials on the Logo Network, went on two nationwide tours, and has performed all around the world with Atlantis Events."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/beso-negro", 
+        "ids": {
+            "spotify": "spotify:artist:3DoXiWB4TMZBu2FSJUyCgL", 
+            "outside": "221126", 
+            "echonest": "ARRBNLD122ECCBA34E", 
+            "rdio": "r2131903"
+        }, 
+        "artist": "Beso Negro",
+        "imageid": "45366",
+        "bio": "Beso Negro has an all-star lineup of internationally experienced musicians who have brought drive and passion to Gypsy Rock. The love for tradition has collided with a modern sensibility and has transformed the genre into a vibrant new beast. "
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/carny-bastards", 
+        "ids": {
+            "outside": "782293"
+        }, 
+        "artist": "Carny Bastards",
+        "imageid": "45376",
+        "bio": "Artist Mike Shine’s sinister revival of the Faustian legend of Mephistopheles, aptly located in the forest of McLaren Pass.  For centuries, Dr. Flotsam and his clan of Carny Bastards have travelled the world hawking their mysterious Hell Brew elixir (which is rumored to taste much like moonshine), trading laughs and performances for souls and dreams."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/dustbowl-revival", 
+        "ids": {
+            "musicbrainz": "d8baeb9f-31f0-47ec-aade-ad53bd4f3496", 
+            "openaura": "52991909e4b0bd2cefcd4b70", 
+            "outside": "341803", 
+            "echonest": "ARUWKRK1377023F56F"
+        }, 
+        "artist": "Dustbowl Revival",
+        "imageid": "45370",
+        "bio": "The Dustbowl Revival is a Venice, California-based collective that merges old school bluegrass, gospel, pre-war blues and the hot swing of New Orleans to form a spicy roots cocktail. Known for their roaring live sets, Dustbowl bravely brings together many styles of traditional American music."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/el-radio-fantastique", 
+        "ids": {
+            "musicbrainz": "7d6fd24c-7735-4ba0-bf9b-ea0c6149d2c9", 
+            "spotify": "spotify:artist:7EyKpdYK6XxjZkkHHeXTTX", 
+            "outside": "322355", 
+            "echonest": "ARWXDGG12FE087167C", 
+            "openaura": "52991ec7e4b0bd2cefd2e9fd"
+        }, 
+        "artist": "EL Radio Fantastique",
+        "imageid": "45368",
+        "bio": "Inspired by a bizarre family tale of a sinister radio that possessed its listeners, bandleader Giovanni DiMorente approaches his music as if turning the dial, transmitting a vibrant spectrum of musical styles, lost in time, yet timeless."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/marty-oreilly-and-the-old-soul-orchestra", 
+        "ids": {
+            "spotify": "spotify:artist:0oFKnXK9fgRpWNyKoJeSOy", 
+            "outside": "581280", 
+            "echonest": "ARPDHHR1454EDA8BB0", 
+            "rdio": "r3818620"
+        }, 
+        "artist": "Marty O'Reilly & The Old Soul Orchestra",
+        "imageid": "45372",
+        "bio": "O’Reilly began his musical journey as a blues guitar player, exploring the works of Blind Willie Johnson, Mississippi John Hurt, John Lee Hooker, Charlie Patton, and Leadbelly."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/slim-jenkins", 
+        "ids": {
+            "outside": "88231"
+        }, 
+        "artist": "Slim Jenkins",
+        "imageid": "45364",
+        "bio": "San Francisco’s Slim Jenkins is a celebration of great American roots music and its tradition of innovation and energy. Harking back to the heyday of hot jazz and blue, Slim Jenkins evokes a world of seduction and mystery, love and betrayal."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/tritiptrio", 
+        "ids": {
+            "spotify": "spotify:artist:0MYALjRKpA76k8ODIe7lUN", 
+            "outside": "782294", 
+            "echonest": "ARHTJXN11F4C843F41", 
+            "rdio": "r688360"
+        }, 
+        "artist": "TriTipTrio",
+        "imageid": "45378",
+        "bio": "Bruce Gordon, Lloyd Meadows, and Louie Rodriguez offer the best of what Zydeco is famous for: hot, spicy, soulful sounds of the bayou. Bruce and Lloyd’s musical chemistry began in 1991 with the formation of the Zydeco Flames."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/tom-petty-and-the-heartbreakers", 
+        "ids": {
+            "spotify": "spotify:artist:4tX2TplrkIP4v05BNC903e", 
+            "gracenote": "7321687-5F553889E04A57FAA4B023338D4C2230", 
+            "openaura": "5299219fe4b0bd2cefd5917d", 
+            "outside": "34242", 
+            "rdio": "r236510", 
+            "musicbrainz": "f93dbc64-6f08-4033-bcc7-8a0bb4689849", 
+            "echonest": "ARF4L041187FB4D318"
+        }, 
+        "artist": "Tom Petty & the Heartbreakers",
+        "imageid": "41923",
+        "bio": "Tom Petty & The Heartbreakers belong to a special class of artists. A class comprised of those few acts that have sustained decades-long careers despite the restlessness of popular music’s audience. They have scored hits in five different decades while selling tens of millions of records along the way."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/macklemore-and-ryan-lewis", 
+        "ids": {
+            "spotify": "spotify:artist:5BcAKTbp20cv7tC5VqPFoC", 
+            "outside": "118686", 
+            "echonest": "ARZEHLK12DDD1882BF", 
+            "rdio": "r1314092", 
+            "gracenote": "290511054-8CFAFE46B36FB8ECB99A9F625379F617"
+        }, 
+        "artist": "Macklemore & Ryan Lewis",
+        "imageid": "42017",
+        "bio": "Since its #2 Billboard Top 200 debut, Macklemore & Ryan Lewis’ independent debut album, ‘The Heist’ has reached Platinum sales, sold 20+Million singles, and earned the Seattle-based hip-hop duo four GRAMMY Awards including Best New Artist, Best Rap Album, Best Rap Song and Best Rap Collaboration."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/death-cab-for-cutie", 
+        "ids": {
+            "spotify": "spotify:artist:0YrtvWJMgSdVrk3SfNjTbx", 
+            "gracenote": "240930859-7937C6F9B25276293A39D568683C3A37", 
+            "openaura": "52991856e4b0bd2cefcc9622", 
+            "outside": "46777", 
+            "rdio": "r3604", 
+            "musicbrainz": "0039c7ae-e1a7-4a7d-9b49-0cbc716821a6", 
+            "echonest": "ARSPUJF1187B9A14B8"
+        }, 
+        "artist": "Death Cab For Cutie",
+        "imageid": "41873",
+        "bio": "By their seventh studio album, many bands are running out of creative steam and original ideas. But in the case of Death Cab for Cutie, nothing could be further from the truth. Codes and Keys is singular in the quartet’s catalog when it comes to sonic exploration and lyrical ambition."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/atmosphere", 
+        "ids": {
+            "spotify": "spotify:artist:1GAS0rb4L8VTPvizAx2O9J", 
+            "gracenote": "220787638-63E52264198D3760783CE125305B1ED5", 
+            "openaura": "52991d0ce4b0bd2cefd145b2", 
+            "outside": "14587", 
+            "rdio": "r2027994", 
+            "musicbrainz": "44c7bce3-da01-4dc0-b0a5-1eb9b160f049", 
+            "echonest": "ARZYMH91187B99CEFC"
+        }, 
+        "artist": "Atmosphere",
+        "imageid": "41859",
+        "bio": "Minneapolis is known for many things — pretty lakes, the Mall of America, lutefisk. But 17 years ago, hip-hop act Atmosphere transformed the city into something else entirely: a nexus from which underground rap spiraled-out to the masses."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/duck-sauce-", 
+        "ids": {
+            "spotify": "spotify:artist:0q8J3Yj810t5cpAYEJ7gxt", 
+            "gracenote": "408565714-CB6629024FE5FE2681EAB23B3BCC8871", 
+            "openaura": "528ff02ae4b084ba1571c83e", 
+            "outside": "142372", 
+            "rdio": "r356118", 
+            "musicbrainz": "5269d3d2-63c6-4b8f-8200-6908ffa365d5", 
+            "echonest": "ARWVCXO123E29C2928"
+        }, 
+        "artist": "Duck Sauce",
+        "imageid": "41879",
+        "bio": "Duck Sauce. The boys who brought flavor back to dance music, no MSGs. A-Trak and Armand Van Helden, hirsute style icons and pan-generational DJ geniuses, combining forces to craft the most infectious anthems they can think of. New York City like drippy marker tags and 4AM hotdogs, funkier than the Statue Of Liberty’s tit sweat."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/haim", 
+        "ids": {
+            "spotify": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE", 
+            "gracenote": "371467251-4BF9968D27BAA5506B08EFA91E91AA5D", 
+            "openaura": "529920e9e4b0bd2cefd4ee2b", 
+            "outside": "216899", 
+            "rdio": "r90523", 
+            "musicbrainz": "50601ad0-50e5-40ae-b446-d6ada5986d19", 
+            "echonest": "ARY6OP91187B9A55FE"
+        }, 
+        "artist": "Haim",
+        "imageid": "41887",
+        "bio": "Hailing from the San Fernando Valley, HAIM consists of, 'Three sisters, and a mister' that has been shaking things up in the city of Los Angeles for the past four years. It is truly a family affair for the band which prides themselves on being able to switch from instrument to instrument with complete confidence and ease, and all while singing in three part harmony."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/capital-cities", 
+        "ids": {
+            "spotify": "spotify:artist:4gwpcMTbLWtBUlOijbVpuu", 
+            "gracenote": "395656993-D26D6E9BCD0A26A7B8D80CD9E103576E", 
+            "openaura": "528ff02ae4b084ba1571c83d", 
+            "outside": "114793", 
+            "rdio": "r2127632", 
+            "musicbrainz": "119a2c67-e6d6-41cf-a58c-c51b75c80daa", 
+            "echonest": "ARGBGCB12CF58F79BE"
+        }, 
+        "artist": "Capital Cities",
+        "imageid": "41863",
+        "bio": "Ryan Merchant and Sebu Simonian, the front men behind the breakout alt-dance group Capital Cities, are a success story spawned by the loyal fans that has continued to blossom. The Los Angeles-based act took both the blogosphere and the shores of California by storm with their self-titled debut EP, out now on Capitol Records/Lazy Hooks. "
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/local-natives", 
+        "ids": {
+            "spotify": "spotify:artist:75dQReiBOHN37fQgWQrIAJ", 
+            "gracenote": "321196143-D563B3AA88B39B21DE512C241AF32E34", 
+            "openaura": "529918e0e4b0bd2cefcd1f1d", 
+            "outside": "49854", 
+            "rdio": "r157572", 
+            "musicbrainz": "1bbf31dc-dbc0-4a7a-bf3f-48bc665878e1", 
+            "echonest": "ARAWGDQ11FF10D8556"
+        }, 
+        "artist": "Local Natives",
+        "imageid": "41895",
+        "bio": "Much has happened between Local Natives' critically-acclaimed album Gorilla Manor and the 2013 release of Hummingbird. From rave reviews to brilliant television performances, Gorilla Manor launched the band onto the global stage, saw them headlining theaters throughout America and Europe, opening for bands like Arcade Fire and The National, and winning them lauded slots at major festivals around the world."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/john-butler-trio", 
+        "ids": {
+            "spotify": "spotify:artist:4XsuCobDDOEQTVXYoJNCCf", 
+            "openaura": "529917e8e4b0bd2cefcc2d4d", 
+            "outside": "38076", 
+            "rdio": "r3111595", 
+            "musicbrainz": "7952b266-9fd4-4a09-a324-7dc84f11b5fc", 
+            "echonest": "AR9GYK61187B9BA1DD"
+        }, 
+        "artist": "John Butler Trio",
+        "imageid": "41893",
+        "bio": "In 1998 John Butler was busking on the streets of Fremantle, West Australia. 3500 self funded cassette sales served as the foundation for becoming Australia's most successful independent artist ever. Fast forward to 2011 and his label Jarrah Records has now been responsible for one million sales in Australia."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/tycho", 
+        "ids": {
+            "spotify": "spotify:artist:5oOhM2DFWab8XhSdQiITry", 
+            "gracenote": "398648329-078EA5E0011A7E89A991E6CF158984FD", 
+            "openaura": "52991bb3e4b0bd2cefcff8f4", 
+            "outside": "41779", 
+            "rdio": "r351486", 
+            "musicbrainz": "b36f70be-71b1-44d5-9abc-8cd5cc78eb6e", 
+            "echonest": "AR0GF811187B9AD3D6"
+        }, 
+        "artist": "Tycho",
+        "imageid": "41925",
+        "bio": "For nearly a decade, Tycho has been known as the musical alias of Scott Hansen, but with the release of Awake – his second LP for Ghostly International – the solo project has evolved into a three-piece band. Reaching an entire new realm of sonic possibilities this time out, Awake is situated in the present, reaching Hansen’s vision of Tycho like never before."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/the-kooks", 
+        "ids": {
+            "spotify": "spotify:artist:1GLtl8uqKmnyCWxHmw9tL4", 
+            "gracenote": "248562502-388341E55C847BD6C9E8EF1AD1D4B8EE", 
+            "openaura": "52926869e4b037311cddd0ce", 
+            "outside": "43136", 
+            "rdio": "r140429", 
+            "musicbrainz": "c41c6a32-cd7e-4cce-8859-559efdd457b3", 
+            "echonest": "ARWDPT81187B99C656"
+        }, 
+        "artist": "The Kooks",
+        "imageid": "42057",
+        "bio": "Catapulted into the limelight by the overwhelming success of their debut album 'Inside In/Inside Out', The Kooks cemented their reputation as one of the UK's best bands with 2008's follow up 'Konk' which debuted in the album charts at #1. "
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/boys-noize", 
+        "ids": {
+            "spotify": "spotify:artist:62k5LKMhymqlDNo2DWOvvv", 
+            "gracenote": "346206290-4CE0DAD3989755D3C4C9A5C5D3A5FE44", 
+            "openaura": "52991e78e4b0bd2cefd29fbd", 
+            "outside": "16488", 
+            "rdio": "r140868", 
+            "musicbrainz": "d2f4a968-1f6e-4a4a-9376-ee2b2a50c87a", 
+            "echonest": "ARVXFBU1187B989D86"
+        }, 
+        "artist": "Boys Noize",
+        "imageid": "41861",
+        "bio": "Alex Ridha – better known to the world as BOYS NOIZE – has been making electronic music and working as a DJ for over half of his life. He established himself as one of the world’s preeminent wizards behind the decks, having played the world’s biggest stages alongside the biggest names in dance music."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/deer-tick", 
+        "ids": {
+            "spotify": "spotify:artist:3rT8xTwSOMDURtWpPyoKIO", 
+            "gracenote": "372972762-4350FD0A56ACD1A82D6597711355A0C4", 
+            "openaura": "529918efe4b0bd2cefcd2f00", 
+            "outside": "32466", 
+            "rdio": "r347831", 
+            "musicbrainz": "c8c64bcc-48c6-47c9-8411-f5c4fd5a97bb", 
+            "echonest": "ARR3ZVN1187FB55682"
+        }, 
+        "artist": "Deer Tick",
+        "imageid": "41875",
+        "bio": "John McCauley – guitar, vocals Ian O'Neil – guitar, vocals Chris Ryan – bass, vocals Rob Crowell – keys, saxophone, vocals Dennis Ryan – drums, vocals John McCauley and Deer Tick have long walked a tightwire between total despair and fractured resilience, but Negativity represents a heroic leap forward on virtually all fronts for the Providence, Rhode Island-based band."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/dum-dum-girls", 
+        "ids": {
+            "spotify": "spotify:artist:65ewrL6LvcNGMMRVlksNGS", 
+            "gracenote": "291903970-9A0ACFC1F74B5DF2192BD63644AC3431", 
+            "openaura": "5299198ee4b0bd2cefcdd646", 
+            "outside": "58032", 
+            "rdio": "r155352", 
+            "musicbrainz": "ca405011-906d-4090-992f-f230739278b1", 
+            "echonest": "ARUUVQD122BCFCB7AB"
+        }, 
+        "artist": "Dum Dum Girls",
+        "imageid": "41973",
+        "bio": "End Of Daze had for me signaled exactly that; an end to a part of my life that was confused, difficult, disastrous, and at times, redemptive. It was a marked comment to myself, for future reference, that what will be, will be, and that there is always exciting work to be done ahead. It is never that easy, though, and so was ushered in a new version of confusion, et al."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/christopher-owens", 
+        "ids": {
+            "spotify": "spotify:artist:0ukgSx1gUt5rUihbNh46qy", 
+            "openaura": "52991941e4b0bd2cefcd84d1", 
+            "outside": "472953", 
+            "rdio": "r287945", 
+            "musicbrainz": "9cca95ca-e6b7-4aa7-9a8b-0425189c7f1d", 
+            "echonest": "ARYHVDJ13BEDDDFBB3"
+        }, 
+        "artist": "Christopher Owens",
+        "imageid": "41967",
+        "bio": "Lysandre (...Here and Hyères), There were questions I was frequently asked when I first met the press. 'How are you handling this overnight success?'' 'How does it feel to do these tours and meet people all around the world?'' Questions I often found impossible to answer."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/big-freedia", 
+        "ids": {
+            "spotify": "spotify:artist:2gyv1akuIB9fQvXoGSPaJr", 
+            "gracenote": "422489105-CEB68DA856BD7708E49C008AFE30A452", 
+            "openaura": "529921cae4b0bd2cefd5b5e3", 
+            "outside": "96273", 
+            "rdio": "r1186100", 
+            "musicbrainz": "14637c9a-4156-4990-862d-02113db0bc07", 
+            "echonest": "ARNIHWM126A031DEE0"
+        }, 
+        "artist": "Big Freedia",
+        "imageid": "42143",
+        "bio": "Big Freedia (pronounced 'FREE-da'), known as the Queen of Bounce, is at the forefront of the Bounce rap movement (a subgenre of hip-hop born out of New Orleans and known for its call and response style and lightening speed booty-shaking dance)."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/jagwar-ma", 
+        "ids": {
+            "spotify": "spotify:artist:6fEO1r9Y9TYL9O4w5kVPmc", 
+            "gracenote": "341507389-A755D0AE3E17993329921FE7D30574CD", 
+            "openaura": "52992169e4b0bd2cefd55fa9", 
+            "outside": "311558", 
+            "rdio": "r1810955", 
+            "musicbrainz": "5b933654-f58b-438c-8652-90567e5495a1", 
+            "echonest": "ARJZWDC136658E5D5C"
+        }, 
+        "artist": "Jagwar Ma",
+        "imageid": "41891",
+        "bio": "Jagwar Ma is a musical project, est. Nov 2011 by Jono Ma and Gabriel Winterfield. It all starts with the single 'Come Save Me'. A celebration of love and loss, lifted by human harmonies only to be sliced apart by the sharp contemporary programming of the song acting as dagger to the tale."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/vance-joy", 
+        "ids": {
+            "spotify": "spotify:artist:10exVja0key0uqUkk6LJRT", 
+            "gracenote": "331031895-6502F461294A1E55B3D9BFF4F1D1EC5C", 
+            "openaura": "52991e91e4b0bd2cefd2b705", 
+            "outside": "520867", 
+            "rdio": "r2655957", 
+            "musicbrainz": "df36f6db-5987-46ed-9d02-0cf36ed4e060", 
+            "echonest": "ARXGKXE13CABFC507C"
+        }, 
+        "artist": "Vance Joy",
+        "imageid": "42043",
+        "bio": "Vance Joy’s debut EP God Loves You When You’re Dancing worms its way under your skin. It’s not an easy task to produce a record so evocative, yet so stripped-back; simplicity in art is often a challenging feat. For Melbourne-based singer and songwriter Vance Joy, the songs began as a collection of loose threads, which over time naturally weaved together, like they were always meant to find a life of their own."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/valerie-june", 
+        "ids": {
+            "spotify": "spotify:artist:4QZdOCb3UacKbQ1ybDFAKM", 
+            "gracenote": "340197496-58BAE36B6CB0E444627EBDB35C661AB9", 
+            "openaura": "52991dcfe4b0bd2cefd20675", 
+            "outside": "148999", 
+            "rdio": "r1396851", 
+            "musicbrainz": "b76c1bf7-f33b-460c-bfc3-f140d023fc94", 
+            "echonest": "ARMNAAY126FC9C0D19"
+        }, 
+        "artist": "Valerie June",
+        "imageid": "41985",
+        "bio": "'It's been a long night if that's what happened,'' Valerie June laughs when asked about her seemingly overnight breakout in the UK. By the time she released her debut album, Pushin' Against A Stone, the Tennessee native had already performed on Later... with Jools Holland, sung a stunning duet with Eric Church at the ACM Awards, toured with Jake Bugg, graced spreads in top music and fashion magazines, and earned some of the year's most glowing reviews. But June traveled a long road to the remarkable moment at which she now finds herself."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/tumbleweed-wanderers", 
+        "ids": {
+            "spotify": "spotify:artist:0KUPqZsHeQgLr8OF7z2yRj", 
+            "outside": "193553", 
+            "echonest": "ARHVIER13586CC6C37", 
+            "rdio": "r2850452"
+        }, 
+        "artist": "Tumbleweed Wanderers",
+        "imageid": "42059",
+        "bio": "Oakland, California’s Tumbleweed Wanderers combine soul, folk, and rock and roll to create a hugely dynamic musical experience. They weave through their shows with smooth transitions, bringing the listener from dark chaotic banjo-rock, through intimate acoustic harmonies, to energetic explosions of soul."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/finish-ticket", 
+        "ids": {
+            "spotify": "spotify:artist:3RthMq3xfDQZl80cMEg1JQ", 
+            "outside": "150400", 
+            "echonest": "ARRNMJZ12AA0D8C474", 
+            "rdio": "r2530270"
+        }, 
+        "artist": "Finish Ticket",
+        "imageid": "42087",
+        "bio": "Yo"
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/the-districts", 
+        "ids": {
+            "spotify": "spotify:artist:3HZgaiR960RFqx9d4LPraD", 
+            "openaura": "52991d86e4b0bd2cefd1c034", 
+            "outside": "287672", 
+            "rdio": "r791314", 
+            "musicbrainz": "d4cb6c89-d615-40e4-b78d-ae5ab1565462", 
+            "echonest": "AR6HWQ51187B989A3D"
+        }, 
+        "artist": "The Districts",
+        "imageid": "42055",
+        "bio": "The Districts are an impressive young four-piece from Lititz, in Lancaster County. The band channeled the rock-and-soul vibe of Cold War Kids and Spoon; singer Rob Grote's searing voice cut across the concert hall, blending with the band's smartly-arranged instrumental interplay."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/trails-and-ways", 
+        "ids": {
+            "spotify": "spotify:artist:4waBtLEoe70SqdFLGsaXCZ", 
+            "gracenote": "393083793-F1FF739CF4449131EC065F55E3F4B759", 
+            "openaura": "529920eee4b0bd2cefd4f43f", 
+            "outside": "298223", 
+            "rdio": "r2279480", 
+            "musicbrainz": "cdd316c8-a29a-4304-8617-ce69a735f652", 
+            "echonest": "ARYSOPF138BEC18B9D"
+        }, 
+        "artist": "Trails and Ways",
+        "imageid": "42027",
+        "bio": "Trails and Ways make bossanova dream pop from a bedroom studio in Oakland, CA. After graduating from UC Berkeley, lead singers Emma Oppen and Keith Brower Brown took off–one to Brazil and the other to Spain. Both learned the new territory and languages through nylon strings and percussion."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/nocona-", 
+        "ids": {
+            "spotify": "spotify:artist:30ruTcaBnr7SfDltXSRTJ5", 
+            "outside": "734630", 
+            "echonest": "ARHQWEJ140C2890320", 
+            "rdio": "r3200397"
+        }, 
+        "artist": "Nocona",
+        "imageid": "42762",
+        "bio": "Before they came together in 2012 as NOCONA, husband-and-wife team, Chris and Adrienne Isom, along with charismatic southern-native, Annie Rothschild, were 3/4’s of the LA based Roots-Folk-Punk band Paladino, who ended their time together playing the Bonnaroo Music and Arts Festival in Manchester, Tennessee."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/gorgon-city", 
+        "ids": {
+            "spotify": "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx", 
+            "gracenote": "322377201-8801177892BED1BB6308F11FE6E97381", 
+            "openaura": "52991bd4e4b0bd2cefd0160b", 
+            "outside": "354769", 
+            "rdio": "r1842359", 
+            "musicbrainz": "ba8aaa28-2de4-4d5c-824e-1e9d49235c55", 
+            "echonest": "ARCJPWR136658E907C"
+        }, 
+        "artist": "Gorgon City",
+        "imageid": "44837",
+        "bio": "Both respected and renowned for their individual producing pursuits, Gorgon City serves to fuse the deeper, sexier sounds that have excited the two producers for years but remained untouched. Releasing on Black Butter Records, their polished, powerful and party-minded sound has already caught the ears of tastemakers across the globe."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/the-scum-frog", 
+        "ids": {
+            "spotify": "spotify:artist:22tL4hcoGJQDaGexiQTWy9", 
+            "gracenote": "38814437-7E9A9F2D54508D724367DB472CF92D7D", 
+            "openaura": "529921c0e4b0bd2cefd5ae5d", 
+            "outside": "768726", 
+            "rdio": "r215970", 
+            "musicbrainz": "af99dd4d-47b6-427f-9b11-891d5f923155", 
+            "echonest": "ARUVGJP1187B9B35D9"
+        }, 
+        "artist": "The Scumfrog",
+        "imageid": "44883",
+        "bio": "25 years after his first DJ gig, and 10 years since his first successful album, Jesse Houk aka The Scumfrog continues to do exactly what he feels like doing; recording his most personal album to date 'In Case We’re All Still Here'."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/shawn-reynaldo", 
+        "ids": {
+            "outside": "130703"
+        }, 
+        "artist": "Shawn Reynaldo",
+        "imageid": "44849",
+        "bio": "Shawn Reynaldo is a DJ. Splitting his time between San Francisco and New York, he’s a co-founder of the renowned Icee Hot and Tormenta Tropical parties."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/deejay-theory", 
+        "ids": {
+            "spotify": "spotify:artist:5iW9p5ZAmVwIGLRpQNoYrb", 
+            "outside": "245431", 
+            "echonest": "ARQQZEH144CB013204"
+        }, 
+        "artist": "Deejay Theory",
+        "imageid": "44831",
+        "bio": "Repping Faction Sound Crew and leading online Caribbean lifestyle magazine LargeUp.com, Deejay Theory continues to push the DJ / producer role forward in his homebase of San Francisco, CA and throughout the world."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/matt-haze", 
+        "ids": {
+            "outside": "107915", 
+            "echonest": "ARTQLZY12086C13825"
+        }, 
+        "artist": "Matt Haze",
+        "imageid": "44843",
+        "bio": "Matt Haze began his DJ career in the Bronx as a husky 10 year-old, cutting up the dopest Paula Abdul and MC Hammer cassingles at his little sister’s birthday party. In high school, he took a fervent interest underground music and started attending basement shows and warehouse raves."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/the-improvised-shakespeare-company", 
+        "ids": {
+            "outside": "60275"
+        }, 
+        "artist": "The Improvised Shakespeare Company",
+        "imageid": "45173",
+        "bio": "Known as one of the most critically acclaimed theatrical Improv troupes in the country, The Improvised Shakespeare Company started in 2005 under the vision of director/creator Blaine Swen."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/improv-4-humans-with-matt-besser-and-guests-chris-gethard-lauren-lapkus-and-seth-morris", 
+        "ids": {
+            "outside": "776456"
+        }, 
+        "artist": "Improv4Humans with Matt Besser and guests Chris Gethard, Lauren Lapkus and Seth Morris",
+        "imageid": "45185",
+        "bio": ""
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/the-chris-gethard-show", 
+        "ids": {
+            "outside": "119584"
+        }, 
+        "artist": "The Chris Gethard Show",
+        "imageid": "45177",
+        "bio": "The Chris Gethard Show is a cult phenomenon public access idiocy fest that's been written up in The New York Times, Huffington Post, New York Magazine, the Wall Street Journal, and that the AV Club once said 'belongs in the conversation among the best things on tv'"
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/the-killers", 
+        "ids": {
+            "spotify": "spotify:artist:0C0XlULifJtAgn6ZNCW2eu", 
+            "gracenote": "59264822-F56D244DCFD7B25E1E0E8FDAEB1EEF45", 
+            "openaura": "529921eee4b0bd2cefd5d67c", 
+            "outside": "7091", 
+            "rdio": "r91236", 
+            "musicbrainz": "24b4aee8-32ed-4163-98f7-55bae67411ae", 
+            "echonest": "ARVG4OK1187B9B6BD3"
+        }, 
+        "artist": "The Killers",
+        "imageid": "41919",
+        "bio": "From out of the wreckage of the American Civil War, the great state of Nevada came into being on October 31st, 1864. Its creation immediately helped to secure the re-election of Abraham Lincoln, the passage of the Thirteenth Amendment and, ultimately, the future of the union."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/ti%C3%ABsto-", 
+        "ids": {
+            "spotify": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z", 
+            "gracenote": "191239090-9D6FDA9E343DE2038C504B791363A14B", 
+            "openaura": "52991bace4b0bd2cefcff1d3", 
+            "outside": "111273", 
+            "rdio": "r964002", 
+            "musicbrainz": "aabb1d9f-be12-45b3-a84d-a1fc3e8181fd", 
+            "echonest": "ARIW30O1187FB5A29A"
+        }, 
+        "artist": "Ti\u00ebsto",
+        "imageid": "42071",
+        "bio": "For Tiesto making music is about giving.The Grammy Award-nominated electronic dance music icon offers up his greatest gift yet in the form of his fifth full-length album and career first for a major label, A Town Called Paradise Casablanca Records/Republic Records. That's saying a lot considering his track record too…"
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/the-flaming-lips", 
+        "ids": {
+            "spotify": "spotify:artist:16eRpMNXSQ15wuJoeqguaB", 
+            "gracenote": "7339618-94515FD719D9D500B71E0ADC705208A2", 
+            "openaura": "5299227fe4b0bd2cefd655b6", 
+            "outside": "34248", 
+            "rdio": "r84808", 
+            "musicbrainz": "1f43d76f-8edf-44f6-aaf1-b65f05ad9402", 
+            "echonest": "ARNVCB81187B9ACBDF"
+        }, 
+        "artist": "The Flaming Lips",
+        "imageid": "42067",
+        "bio": "It is a strange thing when humans are very sad, the stories and music they want to hear is not hopeful or happy; they want to hear SAD stories and music...so we suppose happy people wanna hear happy things maybe we only hear ourselves or we only LISTEN to ourselves."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/ray-lamontagne", 
+        "ids": {
+            "spotify": "spotify:artist:6DoH7ywD5BcQvjloe9OcIj", 
+            "gracenote": "421522816-639780D2715E65A772C5FC87E2670612", 
+            "openaura": "529919e6e4b0bd2cefce30d0", 
+            "outside": "34221", 
+            "rdio": "r213724", 
+            "musicbrainz": "b5c4ffa2-82e1-4b72-b7f3-c60afb74b860", 
+            "echonest": "AR90WS41187FB3F064"
+        }, 
+        "artist": "Ray LaMontagne",
+        "imageid": "42067",
+        "bio": "Ray LaMontagne has one of the remarkable stories in music’s past decade. Since leaving his job in a Maine shoe factory to pursue his calling as a musician, he has released four studio albums and two live EPs, won awards and topped critics’ polls internationally, and established himself as one of the most distinctive talents of his generation."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/spoon", 
+        "ids": {
+            "spotify": "spotify:artist:0K1q0nXQ8is36PzOKAMbNe", 
+            "gracenote": "31785969-F3972A39175AAB960359D60195FC61AD", 
+            "openaura": "52991d56e4b0bd2cefd191cf", 
+            "outside": "35069", 
+            "rdio": "r91280", 
+            "musicbrainz": "0db1ad0b-3ac1-4425-b10a-3142e795895c", 
+            "echonest": "ARRX8P01187B99B26E"
+        }, 
+        "artist": "Spoon",
+        "imageid": "41913",
+        "bio": "With their heady blend of precision punk and serpentine classic rock, enigmatic, Texas-based independent rock outfit Spoon went from underground press darlings to one of the genre’s premier commercially and critically acclaimed acts."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/cut-copy", 
+        "ids": {
+            "spotify": "spotify:artist:4EENT7N7rCBwrddM3s0vFS", 
+            "gracenote": "154293922-3B2DB2B02B586049ADB962626DFC7124", 
+            "openaura": "52992041e4b0bd2cefd45574", 
+            "outside": "48024", 
+            "rdio": "r309914", 
+            "musicbrainz": "caaba574-dfbc-4681-8e56-19b5150897d2", 
+            "echonest": "ARWD3OC1187FB3A666"
+        }, 
+        "artist": "Cut Copy",
+        "imageid": "41871",
+        "bio": "Sometimes things have to get worse before they get better. While the two summers of love were birthed from burdening times, Vietnam and 10 years of Thatcher’s reign, they were one hell of a party. Unprecedented explosions of youth culture which tore down the walls of perception through communal elation and celebration."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/ben-howard", 
+        "ids": {
+            "spotify": "spotify:artist:5schNIzWdI9gJ1QRK8SBnc", 
+            "gracenote": "249247036-0254E2BA0DFAC63C48406B3D58697055", 
+            "openaura": "52991ab7e4b0bd2cefcefc24", 
+            "outside": "200723", 
+            "rdio": "r1274460", 
+            "musicbrainz": "534dda3c-b73f-408b-8889-bd68eae84df6", 
+            "echonest": "ARDQLBT12420780DAF"
+        }, 
+        "artist": "Ben Howard",
+        "imageid": "42039",
+        "bio": "Ben Howard is a young Devonshire musician, a ‘singer-songwriter’ for want of a better phrase, and an artist who has exceeded all of his expectations within a whirlwind two and a bit years."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/lykke-li", 
+        "ids": {
+            "spotify": "spotify:artist:6oBm8HB0yfrIc9IHbxs6in", 
+            "gracenote": "235767490-390E3C49511692CA8E8E3A5054061720", 
+            "openaura": "52991a88e4b0bd2cefcecc15", 
+            "outside": "17296", 
+            "rdio": "r85108", 
+            "musicbrainz": "cc7d4686-ea02-45fd-956e-94c1a322558c", 
+            "echonest": "ARGHEC01187FB597B0"
+        }, 
+        "artist": "Lykke Li",
+        "imageid": "41901",
+        "bio": ""
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/chvrches", 
+        "ids": {
+            "spotify": "spotify:artist:3CjlHNtplJyTf9npxaPl5w", 
+            "gracenote": "367237723-0ADA0760222A14964C48326325EA5FCB", 
+            "openaura": "52991e3be4b0bd2cefd26093", 
+            "outside": "449934", 
+            "rdio": "r2334128", 
+            "musicbrainz": "6a93afbb-257f-4166-b389-9f2a1e5c5df8", 
+            "echonest": "ARCZOJQ13A5B8886AB"
+        }, 
+        "artist": "Chvrches",
+        "imageid": "42189",
+        "bio": "In little more than twelve months CHVRCHES have come out of nowhere to be everywhere. There’s a lot to catch up on since they posted their first song, Lies, online last May – a place in the top five of the BBC Sound of 2013, sell out headline tours in the UK and US (the most recent US tour playing to almost 20,000 people over 18 shows), a triumphant, award-winning appearance atSXSW and a string of stadium dates with Depeche Mode, to name but a few."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/paolo-nutini", 
+        "ids": {
+            "spotify": "spotify:artist:7x5rK9BClDQ8wmCkYAGsQp", 
+            "gracenote": "416552706-2FA2C7B18B03CA384A33B373600FA09D", 
+            "openaura": "529918e0e4b0bd2cefcd1f28", 
+            "outside": "34241", 
+            "rdio": "r89511", 
+            "musicbrainz": "24ea074c-59cc-41c5-a5de-f68c2952965f", 
+            "echonest": "ARZS3RD1187FB457CE"
+        }, 
+        "artist": "Paolo Nutini",
+        "imageid": "42021",
+        "bio": "If you think you know Paolo Nutini, think again. His 1.5 million selling 2006 debut album, ‘These Streets’, established the young Scot as a leading talent amongst the new wave of singer-songwriters and his second album ‘Sunny Side Up’ not only won the Ivor Novello award for Best Album in 2010, but also went on to sell nearly 2 million copies in the UK alone."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/jenny-lewis-", 
+        "ids": {
+            "spotify": "spotify:artist:5cMVRrisBpDkXCVG48epED", 
+            "gracenote": "164952887-347390FE903C837AD2D40F4D23983EBA", 
+            "openaura": "52991f7be4b0bd2cefd3927e", 
+            "outside": "34474", 
+            "rdio": "r89302", 
+            "musicbrainz": "9ad6d1e3-427f-4921-b603-7e9eda94a061", 
+            "echonest": "ARYISIS1187FB37E32"
+        }, 
+        "artist": "Jenny Lewis",
+        "imageid": "42656",
+        "bio": "They say there are two sides to every story, but that old saying might not quite cover it if we’re talking about Jenny Lewis. With Rilo Kiley, her rock band of the past 10 years, she transformed before our eyes from a shy indie-rocker to the authoritative, take-no-prisoners singer/songwriter/frontwoman we know today. "
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/flume", 
+        "ids": {
+            "spotify": "spotify:artist:6nxWCVXbOlEVRexSbLsTer", 
+            "gracenote": "300142858-7018B94F1F1687104E066DB2CC3619EA", 
+            "openaura": "5299233ce4b0bd2cefd705df", 
+            "outside": "190842", 
+            "rdio": "r1209384", 
+            "musicbrainz": "35fd8d42-b4a6-4414-9827-8766bd0daa3c", 
+            "echonest": "ARRRSNG1242077E912"
+        }, 
+        "artist": "Flume",
+        "imageid": "41885",
+        "bio": "Flume is a 20 year old beatmaker from Sydney. He got his first taste for producing at age 13 from the most unlikely of places – a music production program he found in a cereal box."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/lucius", 
+        "ids": {
+            "spotify": "spotify:artist:1WrqUPWlHN5FXCRcQgrkas", 
+            "gracenote": "375617302-F59F1ADA4D7FCF9D5390E3057C1204CD", 
+            "openaura": "52992271e4b0bd2cefd6498d", 
+            "outside": "139745", 
+            "rdio": "r201233", 
+            "musicbrainz": "1676172f-657a-4771-96ff-4a1c2ef1997e", 
+            "echonest": "ARLLA371187B9B7F48"
+        }, 
+        "artist": "Lucius",
+        "imageid": "41897",
+        "bio": "Lucius knew from the start they were on to something special. Centered around the powerful voices and compelling songwriting of Jess Wolfe and Holly Laessig, the Brooklyn band has evolved from a promising duo into a dynamic quintet whose 2013 debut LP WILDEWOMAN (Mom + Pop) is lauded by The New York Times as 'an art school take on girl group soul.''"
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/gold-panda", 
+        "ids": {
+            "spotify": "spotify:artist:6xS3zemJD9h94iueQvGqVk", 
+            "gracenote": "220945236-E4344F0C2EB5AB81C73C9793D3EABED9", 
+            "openaura": "52991e6ce4b0bd2cefd2915e", 
+            "outside": "76588", 
+            "rdio": "r402832", 
+            "musicbrainz": "bfbccd40-1a06-4ee7-b24d-b2f8cc714fa9", 
+            "echonest": "ARUQQLL12086C15939"
+        }, 
+        "artist": "Gold Panda",
+        "imageid": "42061",
+        "bio": "Hailing from Chelmsford in Essex, but now located to Berlin, Germany, Gold Panda started writing beats and collaborating a few years ago, beginning a journey that ultimately saw him nominated in the BBC’s sound of 2010 list and won the Guardian newspaper’s prestigious First Album Award 2010 for his debut album Lucky Shiner."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/woods-", 
+        "ids": {
+            "spotify": "spotify:artist:2sBPVEeMBXKNsZtYaJixnJ", 
+            "openaura": "52991c68e4b0bd2cefd0ab3c", 
+            "outside": "47369", 
+            "rdio": "r3857491", 
+            "musicbrainz": "219d4e24-dbc9-4042-a7c9-07e0ebfcb2fd", 
+            "echonest": "AR4SDA71187B9A7C97"
+        }, 
+        "artist": "Woods",
+        "imageid": "41987",
+        "bio": "Woods’ brand of pop shamanism has undergone several gradual transformations over their past few albums, but on With Light And With Love, the tinkering reveals an expanded sonic palette that includes singing saw, heavier emphasis on percussion, and a saloon piano that sounds like it was rescued from a flooded basement."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/gardens-and-villa", 
+        "ids": {
+            "spotify": "spotify:artist:5NgfalfOtMDHkJ0SbFAxyA", 
+            "gracenote": "244284819-1C4DCE00F3A06B17CACCFDF4665D7F7A", 
+            "openaura": "52991ee9e4b0bd2cefd30937", 
+            "outside": "190141", 
+            "rdio": "r1108862", 
+            "musicbrainz": "57d16320-39ad-4d0e-8ec9-86fd3ec94455", 
+            "echonest": "ARTCYMN130708ED229"
+        }, 
+        "artist": "Gardens & Villa",
+        "imageid": "42007",
+        "bio": "Gardens & Villa is the project of five college friends from Santa Barbara, formed following the collapse of a noisier post-punk band and a hitch-hiking journey up the west coast."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/watsky", 
+        "ids": {
+            "spotify": "spotify:artist:3mJ9GlkLzj8Ka7Z7EQaCMi", 
+            "outside": "183768", 
+            "echonest": "ARWPJTD12EC561C1B4", 
+            "rdio": "r2065527", 
+            "gracenote": "328218740-DE083D874D71BB38F32074D225E782D5"
+        }, 
+        "artist": "Watsky",
+        "imageid": "42073",
+        "bio": "Watsky grew up at 5th avenue and Fulton, half a block from Golden Gate park and achieved a lifelong dream when he returned to San Francisco in April 2013 and sold out the Fillmore as a headliner."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/hiss-golden-messenger--", 
+        "ids": {
+            "spotify": "spotify:artist:37eqxl8DyLd5sQN54wYJbE", 
+            "gracenote": "266759061-E36F8979CDB727A5747B23315C5BF9EF", 
+            "openaura": "52991b87e4b0bd2cefcfcb26", 
+            "outside": "769174", 
+            "rdio": "r404654", 
+            "musicbrainz": "aa0b8b75-714f-465e-9d66-c54c17247f6f", 
+            "echonest": "ARICUFU122BCFCB8ED"
+        }, 
+        "artist": "Hiss Golden Messenger",
+        "imageid": "44865",
+        "bio": "Lateness of Dancers is the fifth full-length from Hiss Golden Messenger. It’s an open, confident, immediate album, and it feels, at times, like a direct response to the darkness of M.C. Taylor’s last record, 2013’s Haw, or to the searching of 2010’s Bad Debt, the stunning acoustic LP he made at his kitchen table shortly after the birth of his son."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/imelda-may", 
+        "ids": {
+            "spotify": "spotify:artist:6AnjHMqEAps8VJdHU8RykH", 
+            "gracenote": "146710785-8CA168B7273C9BAC12CEF2F00FC1B924", 
+            "openaura": "529922f2e4b0bd2cefd6c4a4", 
+            "outside": "59793", 
+            "rdio": "r310997", 
+            "musicbrainz": "cf7560ef-7714-477e-b4cd-59de0a2d11fb", 
+            "echonest": "AREB12I11C8A416B50"
+        }, 
+        "artist": "Imelda May",
+        "imageid": "42480",
+        "bio": "Imelda May, born in Dublin and raised in the Liberties, may be an unknown name to some, but to many she is already a superstar. She is unmistakable both in her music (a fusion of surf guitars, blues and rockabilly that wouldn’t be out of place in a David Lynch film) and her style, with a solitary curl and shock of blonde in her jet black hair."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/courtney-barnett", 
+        "ids": {
+            "spotify": "spotify:artist:4OOlG5eBXSkSAAEeKjJb5Y", 
+            "gracenote": "370289412-514351D426958401284EBC681945391C", 
+            "openaura": "5299239ee4b0bd2cefd75c60", 
+            "outside": "668630", 
+            "rdio": "r1951524", 
+            "musicbrainz": "55111838-f001-494a-a1b5-9d818db85810", 
+            "echonest": "ARUISHD13704F097BA"
+        }, 
+        "artist": "Courtney Barnett",
+        "imageid": "41869",
+        "bio": "After years toiling away as a guitarist in other-people’s bands, Courtney Barnett finally gained the courage to step out as a solo artist less than two years ago."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/made-in-heights-", 
+        "ids": {
+            "spotify": "spotify:artist:71zBpZsf6YDEBfWayKdAOA", 
+            "outside": "769172", 
+            "echonest": "ARTDDYE131AAE2621A", 
+            "rdio": "r3445480"
+        }, 
+        "artist": "Made in Heights",
+        "imageid": "44941",
+        "bio": "Sometimes our dreams are so brilliant and our desires so mysterious that we lock them deep inside ourselves to feed and play with only when we sleep... As if acknowledging them in waking life will betray the veil of control we shroud around our lives. But sooner or later every thought becomes manifest, and every dream finds a way into this world, whether by will or by war."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/jonathan-wilson", 
+        "ids": {
+            "spotify": "spotify:artist:6KJIIOCWsWtNc7ICINtPEw", 
+            "gracenote": "246933965-C0DFA17C36E80E8B02CBCFDD7B21D17E", 
+            "openaura": "52991b87e4b0bd2cefcfcae7", 
+            "outside": "37124", 
+            "rdio": "r272542", 
+            "musicbrainz": "2f17f9f7-2df1-49d6-ab2b-7bb4ba580746", 
+            "echonest": "ARXY71N1187B9B5B66"
+        }, 
+        "artist": "Jonathan Wilson",
+        "imageid": "42015",
+        "bio": "Fanfare, the second full-length from acclaimed artist and producer Jonathan Wilson, was released in October 2013 via Downtown Records."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/the-brothers-comatose", 
+        "ids": {
+            "spotify": "spotify:artist:7oKVYDiVZxglvgEW2zHcAD", 
+            "openaura": "52991e4be4b0bd2cefd2715a", 
+            "outside": "103630", 
+            "rdio": "r2593808", 
+            "musicbrainz": "99e4dda9-f5fb-4949-b5c5-3e6a4bdb1268", 
+            "echonest": "ARDIHDG12592CD9274"
+        }, 
+        "artist": "The Brothers Comatose",
+        "imageid": "42077",
+        "bio": "The original members of the quintet with brothers Alex and Ben Morrison, bonded at the Morrison family acoustic music parties before taking a youthful foray into punk and rock bands *and ultimately* before circling back to the music they learned in that living room."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/the-bots-", 
+        "ids": {
+            "spotify": "spotify:artist:74inaPbbmkeOZch3n682zq", 
+            "openaura": "52992016e4b0bd2cefd42c3a", 
+            "outside": "769525", 
+            "rdio": "r621236", 
+            "musicbrainz": "198f6a29-d176-4924-9747-d0b8071fcb3e", 
+            "echonest": "ARTUFKW1187B9AE6E0"
+        }, 
+        "artist": "The Bots",
+        "imageid": "44923",
+        "bio": "Los Angeles brothers and bandmates Mikaiah Lei (Lead Vocal, Guitar, Bass), and Anaiah Lei (Drums & Percussions, Backing Vocal), recorded their first album together when they were just 15 and 12. Their distinctive sound brings together the veracity of garage/punk while paying homage to the American blues and ballad tradition."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/green-velvet-", 
+        "ids": {
+            "spotify": "spotify:artist:3ABaec4jjl95VqmG1iD4k2", 
+            "gracenote": "21483688-A49A2F71FFA2A984852176B120E40221", 
+            "openaura": "529919e0e4b0bd2cefce2ad5", 
+            "outside": "620710", 
+            "rdio": "r94724", 
+            "musicbrainz": "e425b041-c28a-4ae8-9d5c-997890433cd4", 
+            "echonest": "ARZDU0H1187B989E0D"
+        }, 
+        "artist": "Green Velvet",
+        "imageid": "44839",
+        "bio": "Green Velvet, initially created by house don Cajmere (AKA Curtis Alan Jones) as an outlet for his non-vocal productions and frequent DJing gigs, grew to become even more popular than the man himself, thanks to club singles like 'Preacher Man,' 'Answering Machine' and 'The Stalker.''"
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/soultech-gene-farris-and-dustin-sheridan", 
+        "ids": {
+            "outside": "768727"
+        }, 
+        "artist": "Soultech 'Gene Farris & Dustin Sheridan'",
+        "imageid": "44853",
+        "bio": "Gene Farris: A global ambassador of Chicago’s classic house music sound, Gene Farris has spiritedly contributed to the evolving house and techno culture of this century. He started spinning vinyl- Acid House, Disco and the classic Chicago style of his peers."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/cappa-regime", 
+        "ids": {
+            "spotify": "spotify:artist:6nsRu4qU6Q7JxNzF9k83WW", 
+            "outside": "629576", 
+            "echonest": "ARLXPMX138A107819E", 
+            "rdio": "r2110135"
+        }, 
+        "artist": "Cappa Regime",
+        "imageid": "44829",
+        "bio": "Cappa Regime is the collaboration of three talents who've all taken their personal journeys through the music industry doing everything from live shows to studio production to festival stage production."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/lights-down-low-", 
+        "ids": {
+            "outside": "497581"
+        }, 
+        "artist": "Lights Down Low: Richie Panic, Sleazemore & MPHD",
+        "imageid": "44857",
+        "bio": "Lights Down Low has been a primary fixture in San Francisco nightlife for over 5 years now. Known worldwide, we bring you the best in new electronic acts.Benoit and Sergio, James Blake, Ben Westbeech, Todd Edwards, Creep, Danny Daze, XXXY, Jokers of the Scene, Dave Nada, Canblaster, No Regular Play, Brenmar, Christian Martin, Pearson Sound, The Presets (DJ Set), Congorock, Treasure Fingers, Lunice, Yolanda Be Cool, Brodinski, Drop The Lime (Live), Felix Cartal, Egyptrixx, Yeah Yeah Yeahs (DJ Set), Eli Escobar, Dave Nada, Canblaster, Harvard Bass, Gant-Man, DJ Funk, Zombie Disco Squad, Dubbel Dutch, In Flagranti, Passion Pit (DJ Set), Blaqstarr, Classixx, Larry Tee, Tommie Sunshine are just a few of the names to grace the LDL stage."
+    }, 
+    {
+        "link": "http://lineup.sfoutsidelands.com/band/thomas-middleditch-t-j-miller-and-kumail-nanjiani-", 
+        "ids": {
+            "outside": "776455"
+        }, 
+        "artist": "Stars of Silicon Valley: Thomas Middleditch, T.J. Miller and Kumail Nanjiani",
+        "imageid": "45189",
+        "bio": "Pied Piper"
+    }
+]
