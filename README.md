@@ -15,6 +15,17 @@ How it works
 
 It's a WIN-WIN all around.
 
+How it's built:
+
+App: 
+	* AngularJS - MVC running the whole show
+	* Ionic Framework - Mobile UI framework 
+	* JQuery - Used for image resizing in app instead of server side to eliminate having to send giant image files over cell data in a crowded festival.
+
+Backend: 
+	* [Parse] (http://www.parse.com) - NodeJS and MongoDB
+	* PHP - Used for image upload to a file server.
+
 Product: [Stanley Withouski] (https://www.linkedin.com/in/stanleywithouski)
 
 Design: [Zak Ferris] (https://www.linkedin.com/pub/zak-ferris/16/1b7/665)
