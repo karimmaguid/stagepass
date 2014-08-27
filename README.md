@@ -3,7 +3,7 @@ Stagepass
 
 Welcome to Stagepass, 2nd place app at [Outside Hacks] (https://www.hackerleague.org/hackathons/outside-hacks-ii)
 
-Demo Video [https://www.youtube.com/watch?v=G0GHztH9qxs] (https://www.youtube.com/watch?v=G0GHztH9qxs)
+**Demo Video** [https://www.youtube.com/watch?v=G0GHztH9qxs] (https://www.youtube.com/watch?v=G0GHztH9qxs)
 
 Stagepass was designed and built in 24 hours at Outside Lands' hackathon to connect fans, artists, and sponsors like never before.
 
